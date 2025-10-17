@@ -331,7 +331,13 @@ class NOMADSDownloader:
             # Precipitação
             if 'tp' in ds or 'acpcp' in ds:
                 precip = ds['tp'].values if 'tp' in ds else ds['acpcp'].values
-                data['precipitacao_total'] = float(np.nansum(precip))
+                # Se for array acumulado, calcula incremental (diferença entre valores)
+                if isinstance(precip, np.ndarray) and len(precip) > 1:
+                    # Precipitação incremental (mm por hora ou intervalo)
+                    incremental = np.diff(precip, prepend=precip[0])
+                    data['precipitacao_total'] = float(np.nansum(incremental))
+                else:
+                    data['precipitacao_total'] = float(np.nansum(precip))
             
             # Vento
             if 'u10' in ds and 'v10' in ds:
@@ -344,9 +350,16 @@ class NOMADSDownloader:
             # Radiação solar
             if 'dswrf' in ds:
                 radiation = ds['dswrf'].values
-                data['rad_mediana'] = float(np.nanmedian(radiation))
-                data['rad_max'] = float(np.nanmax(radiation))
-                data['rad_min'] = float(np.nanmin(radiation))
+                # Se for array acumulado, calcula incremental (diferença entre valores)
+                if isinstance(radiation, np.ndarray) and len(radiation) > 1:
+                    incremental_rad = np.diff(radiation, prepend=radiation[0])
+                    data['rad_mediana'] = float(np.nanmedian(incremental_rad))
+                    data['rad_max'] = float(np.nanmax(incremental_rad))
+                    data['rad_min'] = float(np.nanmin(incremental_rad))
+                else:
+                    data['rad_mediana'] = float(np.nanmedian(radiation))
+                    data['rad_max'] = float(np.nanmax(radiation))
+                    data['rad_min'] = float(np.nanmin(radiation))
             
             # Salvar como CSV
             csv_file = self.cache_dir / f"{grib_file.stem}.csv"
