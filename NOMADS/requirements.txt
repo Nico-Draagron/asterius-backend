@@ -1,0 +1,25 @@
+# Meteorological Data Processing
+xarray
+cfgrib
+netcdf4
+eccodes
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm
+
+# Async HTTP
+aiohttp
+aiofiles
+
+# Scheduling
+schedule
+
+# Data Analysis
+matplotlib
+seaborn
+
+# Utilities
+holidays
+pathlib

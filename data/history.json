@@ -1,0 +1,73 @@
+{
+  "session_1759944033597": [
+    {
+      "role": "user",
+      "content": "Se hoje não tivesse chovendo,  quanto eu venderia ? ",
+      "timestamp": "2025-10-08T14:21:20.639400"
+    },
+    {
+      "role": "user",
+      "content": "Ola",
+      "timestamp": "2025-10-08T14:23:13.033081"
+    }
+  ],
+  "session_1759944290112": [
+    {
+      "role": "user",
+      "content": "Ola, voce esta ai ?",
+      "timestamp": "2025-10-08T14:24:55.770585"
+    }
+  ],
+  "session_1760033159717": [
+    {
+      "role": "user",
+      "content": "Olá",
+      "timestamp": "2025-10-09T15:06:02.373875"
+    },
+    {
+      "role": "user",
+      "content": "oi",
+      "timestamp": "2025-10-09T15:28:31.160812"
+    }
+  ],
+  "session_1760034980600": [
+    {
+      "role": "user",
+      "content": "Olá, como esta",
+      "timestamp": "2025-10-09T15:36:24.513816"
+    }
+  ],
+  "session_1760035788298": [
+    {
+      "role": "user",
+      "content": "Ola, bora funcionar agora ? ",
+      "timestamp": "2025-10-09T15:49:57.853175"
+    }
+  ],
+  "session_1760035966204": [
+    {
+      "role": "user",
+      "content": "oi",
+      "timestamp": "2025-10-09T15:54:00.167391"
+    }
+  ],
+  "session_1760051940397": [
+    {
+      "role": "user",
+      "content": "ola",
+      "timestamp": "2025-10-09T20:19:03.346688"
+    }
+  ],
+  "session_1760052439252": [
+    {
+      "role": "user",
+      "content": "ola",
+      "timestamp": "2025-10-09T20:27:21.645206"
+    },
+    {
+      "role": "assistant",
+      "content": "Olá! 👋 Eu sou o Asterius, seu assistente de vendas e previsões para a nossa loja de açaí e sorvete aqui em Santa Maria.\n\nEstou pronto para analisar nossos dados, criar gráficos e prever o faturamento para te ajudar a tomar as melhores decisões. 📊🍨\n\nComo posso te ajudar hoje?",
+      "timestamp": "2025-10-09T20:27:31.720335"
+    }
+  ]
+}

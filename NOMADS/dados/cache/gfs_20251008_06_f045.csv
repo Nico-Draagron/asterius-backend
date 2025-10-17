@@ -1,0 +1,2 @@
+date,hour,forecast_base,forecast_hour,temp_media,temp_max,temp_min,umid_mediana,umid_max,umid_min,precipitacao_total
+2025-10-10,3,2025-10-08T06:00:00,45,21.256690979003906,32.499053955078125,-8.040924072265625,75.0999984741211,100.0,5.800000190734863,5871.375

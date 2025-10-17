@@ -1,0 +1,31 @@
+{
+  "test": [
+    {
+      "role": "user",
+      "content": "Ola",
+      "timestamp": "2025-10-06T17:26:27.386346"
+    },
+    {
+      "role": "assistant",
+      "content": "Olá! Como posso ajudar você hoje? 😊",
+      "timestamp": "2025-10-06T17:26:30.842381"
+    }
+  ],
+  "session_1759787822925": [
+    {
+      "role": "user",
+      "content": "Olá ",
+      "timestamp": "2025-10-06T18:58:37.471188"
+    },
+    {
+      "role": "assistant",
+      "content": "Olá! 😊 Como posso ajudar você hoje? Se precisar de análises de vendas, previsões ou qualquer outra informação sobre o seu negócio, estou à disposição!",
+      "timestamp": "2025-10-06T18:58:42.805107"
+    },
+    {
+      "role": "user",
+      "content": "Se amanhã, for um dia de 25 graus com sol sem chuva, quanto eu vou vender ? ",
+      "timestamp": "2025-10-06T18:59:50.899662"
+    }
+  ]
+}
