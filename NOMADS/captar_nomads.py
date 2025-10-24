@@ -2,8 +2,6 @@
 Script automatizado para baixar dados GFS do NOMADS - VERSÃO CORRIGIDA
 Implementa lógica correta de precipitação acumulada seguindo o código R original
 """
-
-
 # --- Ajuste sys.path para garantir importação do database.py ---
 import sys
 import os
