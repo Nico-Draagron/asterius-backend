@@ -3,6 +3,11 @@ Script automatizado para baixar dados GFS do NOMADS - VERSÃO CORRIGIDA
 Implementa lógica correta de precipitação acumulada seguindo o código R original
 """
 
+
+# --- Ajuste sys.path para garantir importação do database.py ---
+import sys
+import os
+import warnings
 import asyncio
 import aiohttp
 import xarray as xr
@@ -14,10 +19,14 @@ import logging
 import json
 import hashlib
 from typing import Optional, List, Tuple
-import warnings
-import os
 import holidays
 import pytz
+
+# Adiciona a raiz do projeto ao sys.path para garantir importação correta
+current_dir = os.path.dirname(os.path.abspath(__file__))
+backend_dir = os.path.abspath(os.path.join(current_dir, '..'))
+if backend_dir not in sys.path:
+    sys.path.insert(0, backend_dir)
 
 warnings.filterwarnings('ignore')
 
@@ -47,8 +56,11 @@ class NOMADSDownloader:
                     # Sincronizar nomads/cache → NOMADS/dados/cache
                     sm.sync_gcs_to_local("nomads/cache", "NOMADS/dados/cache")
                     # Sincronizar modelo → modelo/
-                    sm.sync_gcs_to_local("modelo", "modelo")
-                    return sm
+                import sys
+                import os
+                sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+                sm.sync_gcs_to_local("modelo", "modelo")
+                return sm
         except Exception as e:
             import logging
             logging.warning(f"[CloudStorage] Falha ao sincronizar do cloud: {e}")
@@ -451,8 +463,8 @@ class NOMADSDownloader:
         return df
 
     async def download_forecast_range(self, start_date: Optional[datetime] = None, days_ahead: int = 5):
-    # Integração Cloud Storage: baixar dados do bucket se rodando no Cloud Run
-    storage_manager = self._sync_with_cloud_storage()
+        # Integração Cloud Storage: baixar dados do bucket se rodando no Cloud Run
+        storage_manager = self._sync_with_cloud_storage()
         """
         Baixa previsões e processa com lógica correta de acumulados
         """
@@ -587,12 +599,12 @@ class NOMADSDownloader:
         logger.info(f"Forecast cache updated with {len(df_grouped)} records")
         
         # Salvar metadata
-    # Upload para Cloud Storage (se disponível)
-    self._upload_to_cloud_storage(storage_manager)
-    self.metadata["last_update"] = datetime.now().isoformat()
-    self.save_metadata()
+        # Upload para Cloud Storage (se disponível)
+        self._upload_to_cloud_storage(storage_manager)
+        self.metadata["last_update"] = datetime.now().isoformat()
+        self.save_metadata()
         
-    logger.info("Download completed successfully")
+        logger.info("Download completed successfully")
     
     def cleanup_old_forecasts(self):
         # Remover apenas arquivos diários, não os horários
