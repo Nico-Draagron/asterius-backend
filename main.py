@@ -193,9 +193,16 @@ app.include_router(hourly_weather_router)
 # CORS MIDDLEWARE
 # ============================================
 
+
+# --- CORS seguro: apenas localhost e domínio Vercel ---
+origins = [
+    "http://localhost:3000",
+    "http://localhost:5173",
+    "https://asterius-frontend-e5rl9fgx3-nico-draagrons-projects.vercel.app"
+]
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Em produção, especifique os domínios permitidos
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
