@@ -1,0 +1,782 @@
+2025-10-06 16:56:36,003 - __main__ - INFO - Starting download for 5 days from 2025-10-06
+2025-10-06 16:56:36,774 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f003 (0.36 MB)
+2025-10-06 16:56:36,792 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f006 (0.38 MB)
+2025-10-06 16:56:36,810 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f001 (0.32 MB)
+2025-10-06 16:56:37,393 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f015 (0.39 MB)
+2025-10-06 16:56:37,427 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f009 (0.37 MB)
+2025-10-06 16:56:37,494 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f012 (0.37 MB)
+2025-10-06 16:56:37,991 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f018 (0.39 MB)
+2025-10-06 16:56:38,017 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f021 (0.32 MB)
+2025-10-06 16:56:38,133 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f024 (0.34 MB)
+2025-10-06 16:56:38,631 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f030 (0.38 MB)
+2025-10-06 16:56:38,713 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f027 (0.37 MB)
+2025-10-06 16:56:38,909 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f033 (0.37 MB)
+2025-10-06 16:56:39,355 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f039 (0.37 MB)
+2025-10-06 16:56:39,435 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f036 (0.37 MB)
+2025-10-06 16:56:39,568 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f042 (0.39 MB)
+2025-10-06 16:56:40,112 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f045 (0.32 MB)
+2025-10-06 16:56:40,230 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f048 (0.32 MB)
+2025-10-06 16:56:40,339 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f051 (0.37 MB)
+2025-10-06 16:56:41,117 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f054 (0.37 MB)
+2025-10-06 16:56:41,204 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f060 (0.37 MB)
+2025-10-06 16:56:41,300 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f057 (0.37 MB)
+2025-10-06 16:56:41,981 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f066 (0.39 MB)
+2025-10-06 16:56:42,096 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f063 (0.37 MB)
+2025-10-06 16:56:42,271 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f069 (0.34 MB)
+2025-10-06 16:56:42,949 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f072 (0.33 MB)
+2025-10-06 16:56:44,802 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f078 (0.39 MB)
+2025-10-06 16:56:44,939 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f075 (0.37 MB)
+2025-10-06 16:56:45,660 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f081 (0.39 MB)
+2025-10-06 16:56:45,711 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f084 (0.40 MB)
+2025-10-06 16:56:45,854 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f087 (0.39 MB)
+2025-10-06 16:56:46,330 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f093 (0.32 MB)
+2025-10-06 16:56:46,456 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f090 (0.39 MB)
+2025-10-06 16:56:46,538 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f096 (0.32 MB)
+2025-10-06 16:56:47,117 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f099 (0.37 MB)
+2025-10-06 16:56:47,201 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f102 (0.39 MB)
+2025-10-06 16:56:47,253 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f105 (0.39 MB)
+2025-10-06 16:56:47,855 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f108 (0.38 MB)
+2025-10-06 16:56:47,907 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f111 (0.39 MB)
+2025-10-06 16:56:47,967 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f114 (0.39 MB)
+2025-10-06 16:56:48,542 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f120 (0.33 MB)
+2025-10-06 16:56:48,617 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f117 (0.31 MB)
+2025-10-06 16:56:53,930 - __main__ - INFO - Processed gfs_20251006_06_f001.grib2 -> gfs_20251006_06_f001.csv
+2025-10-06 16:56:54,206 - __main__ - INFO - Processed gfs_20251006_06_f003.grib2 -> gfs_20251006_06_f003.csv
+2025-10-06 16:56:54,523 - __main__ - INFO - Processed gfs_20251006_06_f006.grib2 -> gfs_20251006_06_f006.csv
+2025-10-06 16:56:54,850 - __main__ - INFO - Processed gfs_20251006_06_f009.grib2 -> gfs_20251006_06_f009.csv
+2025-10-06 16:56:55,931 - __main__ - INFO - Processed gfs_20251006_06_f012.grib2 -> gfs_20251006_06_f012.csv
+2025-10-06 16:56:57,420 - __main__ - INFO - Processed gfs_20251006_06_f015.grib2 -> gfs_20251006_06_f015.csv
+2025-10-06 16:56:57,822 - __main__ - INFO - Processed gfs_20251006_06_f018.grib2 -> gfs_20251006_06_f018.csv
+2025-10-06 16:56:58,194 - __main__ - INFO - Processed gfs_20251006_06_f021.grib2 -> gfs_20251006_06_f021.csv
+2025-10-06 16:56:59,251 - __main__ - INFO - Processed gfs_20251006_06_f024.grib2 -> gfs_20251006_06_f024.csv
+2025-10-06 16:57:00,157 - __main__ - INFO - Processed gfs_20251006_06_f027.grib2 -> gfs_20251006_06_f027.csv
+2025-10-06 16:57:01,784 - __main__ - INFO - Processed gfs_20251006_06_f030.grib2 -> gfs_20251006_06_f030.csv
+2025-10-06 16:57:03,521 - __main__ - INFO - Processed gfs_20251006_06_f033.grib2 -> gfs_20251006_06_f033.csv
+2025-10-06 16:57:04,244 - __main__ - INFO - Processed gfs_20251006_06_f036.grib2 -> gfs_20251006_06_f036.csv
+2025-10-06 16:57:04,854 - __main__ - INFO - Processed gfs_20251006_06_f039.grib2 -> gfs_20251006_06_f039.csv
+2025-10-06 16:57:05,289 - __main__ - INFO - Processed gfs_20251006_06_f042.grib2 -> gfs_20251006_06_f042.csv
+2025-10-06 16:57:05,734 - __main__ - INFO - Processed gfs_20251006_06_f045.grib2 -> gfs_20251006_06_f045.csv
+2025-10-06 16:57:06,122 - __main__ - INFO - Processed gfs_20251006_06_f048.grib2 -> gfs_20251006_06_f048.csv
+2025-10-06 16:57:06,770 - __main__ - INFO - Processed gfs_20251006_06_f051.grib2 -> gfs_20251006_06_f051.csv
+2025-10-06 16:57:07,400 - __main__ - INFO - Processed gfs_20251006_06_f054.grib2 -> gfs_20251006_06_f054.csv
+2025-10-06 16:57:08,504 - __main__ - INFO - Processed gfs_20251006_06_f057.grib2 -> gfs_20251006_06_f057.csv
+2025-10-06 16:57:09,007 - __main__ - INFO - Processed gfs_20251006_06_f060.grib2 -> gfs_20251006_06_f060.csv
+2025-10-06 16:57:09,749 - __main__ - INFO - Processed gfs_20251006_06_f063.grib2 -> gfs_20251006_06_f063.csv
+2025-10-06 16:57:10,382 - __main__ - INFO - Processed gfs_20251006_06_f066.grib2 -> gfs_20251006_06_f066.csv
+2025-10-06 16:57:10,913 - __main__ - INFO - Processed gfs_20251006_06_f069.grib2 -> gfs_20251006_06_f069.csv
+2025-10-06 16:57:11,390 - __main__ - INFO - Processed gfs_20251006_06_f072.grib2 -> gfs_20251006_06_f072.csv
+2025-10-06 16:57:11,739 - __main__ - INFO - Processed gfs_20251006_06_f075.grib2 -> gfs_20251006_06_f075.csv
+2025-10-06 16:57:12,555 - __main__ - INFO - Processed gfs_20251006_06_f078.grib2 -> gfs_20251006_06_f078.csv
+2025-10-06 16:57:14,006 - __main__ - INFO - Processed gfs_20251006_06_f081.grib2 -> gfs_20251006_06_f081.csv
+2025-10-06 16:57:14,649 - __main__ - INFO - Processed gfs_20251006_06_f084.grib2 -> gfs_20251006_06_f084.csv
+2025-10-06 16:57:15,152 - __main__ - INFO - Processed gfs_20251006_06_f087.grib2 -> gfs_20251006_06_f087.csv
+2025-10-06 16:57:15,856 - __main__ - INFO - Processed gfs_20251006_06_f090.grib2 -> gfs_20251006_06_f090.csv
+2025-10-06 16:57:16,236 - __main__ - INFO - Processed gfs_20251006_06_f093.grib2 -> gfs_20251006_06_f093.csv
+2025-10-06 16:57:16,587 - __main__ - INFO - Processed gfs_20251006_06_f096.grib2 -> gfs_20251006_06_f096.csv
+2025-10-06 16:57:17,072 - __main__ - INFO - Processed gfs_20251006_06_f099.grib2 -> gfs_20251006_06_f099.csv
+2025-10-06 16:57:17,570 - __main__ - INFO - Processed gfs_20251006_06_f102.grib2 -> gfs_20251006_06_f102.csv
+2025-10-06 16:57:17,924 - __main__ - INFO - Processed gfs_20251006_06_f105.grib2 -> gfs_20251006_06_f105.csv
+2025-10-06 16:57:18,227 - __main__ - INFO - Processed gfs_20251006_06_f108.grib2 -> gfs_20251006_06_f108.csv
+2025-10-06 16:57:18,923 - __main__ - INFO - Processed gfs_20251006_06_f111.grib2 -> gfs_20251006_06_f111.csv
+2025-10-06 16:57:20,731 - __main__ - INFO - Processed gfs_20251006_06_f114.grib2 -> gfs_20251006_06_f114.csv
+2025-10-06 16:57:21,749 - __main__ - INFO - Processed gfs_20251006_06_f117.grib2 -> gfs_20251006_06_f117.csv
+2025-10-06 16:57:22,156 - __main__ - INFO - Processed gfs_20251006_06_f120.grib2 -> gfs_20251006_06_f120.csv
+2025-10-06 16:57:26,189 - __main__ - INFO - Consolidated forecast saved to dados\cache\forecast_20251006_1657.csv
+2025-10-06 16:57:26,199 - __main__ - INFO - Download completed successfully
+2025-10-08 13:00:55,387 - __main__ - INFO - Starting download for 5 days from 2025-10-08
+2025-10-08 13:00:56,104 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f001 (0.31 MB)
+2025-10-08 13:00:56,255 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f006 (0.38 MB)
+2025-10-08 13:00:56,679 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f003 (0.36 MB)
+2025-10-08 13:00:56,781 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f009 (0.37 MB)
+2025-10-08 13:00:57,206 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f012 (0.37 MB)
+2025-10-08 13:00:57,358 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f015 (0.39 MB)
+2025-10-08 13:00:57,440 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f018 (0.39 MB)
+2025-10-08 13:00:58,217 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f024 (0.32 MB)
+2025-10-08 13:00:58,459 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f021 (0.32 MB)
+2025-10-08 13:00:59,090 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f033 (0.38 MB)
+2025-10-08 13:00:59,177 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f030 (0.38 MB)
+2025-10-08 13:00:59,741 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f039 (0.39 MB)
+2025-10-08 13:00:59,964 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f036 (0.39 MB)
+2025-10-08 13:01:00,404 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f042 (0.38 MB)
+2025-10-08 13:01:01,009 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f048 (0.32 MB)
+2025-10-08 13:01:01,269 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f045 (0.32 MB)
+2025-10-08 13:01:02,005 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f054 (0.37 MB)
+2025-10-08 13:01:02,294 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f027 (0.36 MB)
+2025-10-08 13:01:02,353 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f051 (0.36 MB)
+2025-10-08 13:01:02,789 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f057 (0.36 MB)
+2025-10-08 13:01:02,913 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f060 (0.37 MB)
+2025-10-08 13:01:03,898 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f063 (0.37 MB)
+2025-10-08 13:01:05,367 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f069 (0.31 MB)
+2025-10-08 13:01:05,931 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f075 (0.37 MB)
+2025-10-08 13:01:06,536 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f078 (0.37 MB)
+2025-10-08 13:01:06,759 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f066 (0.38 MB)
+2025-10-08 13:01:07,100 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f072 (0.33 MB)
+2025-10-08 13:01:07,184 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f081 (0.37 MB)
+2025-10-08 13:01:07,957 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f090 (0.37 MB)
+2025-10-08 13:01:08,015 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f084 (0.38 MB)
+2025-10-08 13:01:08,822 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f096 (0.32 MB)
+2025-10-08 13:01:08,965 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f093 (0.32 MB)
+2025-10-08 13:01:09,426 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f099 (0.38 MB)
+2025-10-08 13:01:10,020 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f087 (0.38 MB)
+2025-10-08 13:01:10,115 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f105 (0.39 MB)
+2025-10-08 13:01:10,203 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f102 (0.37 MB)
+2025-10-08 13:01:10,733 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f108 (0.38 MB)
+2025-10-08 13:01:10,970 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f111 (0.38 MB)
+2025-10-08 13:01:11,621 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f120 (0.34 MB)
+2025-10-08 13:01:11,681 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f117 (0.32 MB)
+2025-10-08 13:01:14,502 - __main__ - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f114 (0.38 MB)
+2025-10-08 13:01:17,217 - __main__ - INFO - Processed gfs_20251008_06_f001.grib2 -> gfs_20251008_06_f001.csv
+2025-10-08 13:01:17,368 - __main__ - INFO - Processed gfs_20251008_06_f003.grib2 -> gfs_20251008_06_f003.csv
+2025-10-08 13:01:17,508 - __main__ - INFO - Processed gfs_20251008_06_f006.grib2 -> gfs_20251008_06_f006.csv
+2025-10-08 13:01:17,638 - __main__ - INFO - Processed gfs_20251008_06_f009.grib2 -> gfs_20251008_06_f009.csv
+2025-10-08 13:01:17,801 - __main__ - INFO - Processed gfs_20251008_06_f012.grib2 -> gfs_20251008_06_f012.csv
+2025-10-08 13:01:17,969 - __main__ - INFO - Processed gfs_20251008_06_f015.grib2 -> gfs_20251008_06_f015.csv
+2025-10-08 13:01:18,118 - __main__ - INFO - Processed gfs_20251008_06_f018.grib2 -> gfs_20251008_06_f018.csv
+2025-10-08 13:01:18,321 - __main__ - INFO - Processed gfs_20251008_06_f021.grib2 -> gfs_20251008_06_f021.csv
+2025-10-08 13:01:18,506 - __main__ - INFO - Processed gfs_20251008_06_f024.grib2 -> gfs_20251008_06_f024.csv
+2025-10-08 13:01:18,711 - __main__ - INFO - Processed gfs_20251008_06_f027.grib2 -> gfs_20251008_06_f027.csv
+2025-10-08 13:01:18,983 - __main__ - INFO - Processed gfs_20251008_06_f030.grib2 -> gfs_20251008_06_f030.csv
+2025-10-08 13:01:19,190 - __main__ - INFO - Processed gfs_20251008_06_f033.grib2 -> gfs_20251008_06_f033.csv
+2025-10-08 13:01:19,436 - __main__ - INFO - Processed gfs_20251008_06_f036.grib2 -> gfs_20251008_06_f036.csv
+2025-10-08 13:01:19,641 - __main__ - INFO - Processed gfs_20251008_06_f039.grib2 -> gfs_20251008_06_f039.csv
+2025-10-08 13:01:19,824 - __main__ - INFO - Processed gfs_20251008_06_f042.grib2 -> gfs_20251008_06_f042.csv
+2025-10-08 13:01:20,003 - __main__ - INFO - Processed gfs_20251008_06_f045.grib2 -> gfs_20251008_06_f045.csv
+2025-10-08 13:01:20,194 - __main__ - INFO - Processed gfs_20251008_06_f048.grib2 -> gfs_20251008_06_f048.csv
+2025-10-08 13:01:20,389 - __main__ - INFO - Processed gfs_20251008_06_f051.grib2 -> gfs_20251008_06_f051.csv
+2025-10-08 13:01:20,609 - __main__ - INFO - Processed gfs_20251008_06_f054.grib2 -> gfs_20251008_06_f054.csv
+2025-10-08 13:01:20,782 - __main__ - INFO - Processed gfs_20251008_06_f057.grib2 -> gfs_20251008_06_f057.csv
+2025-10-08 13:01:20,957 - __main__ - INFO - Processed gfs_20251008_06_f060.grib2 -> gfs_20251008_06_f060.csv
+2025-10-08 13:01:21,116 - __main__ - INFO - Processed gfs_20251008_06_f063.grib2 -> gfs_20251008_06_f063.csv
+2025-10-08 13:01:21,275 - __main__ - INFO - Processed gfs_20251008_06_f066.grib2 -> gfs_20251008_06_f066.csv
+2025-10-08 13:01:21,553 - __main__ - INFO - Processed gfs_20251008_06_f069.grib2 -> gfs_20251008_06_f069.csv
+2025-10-08 13:01:21,824 - __main__ - INFO - Processed gfs_20251008_06_f072.grib2 -> gfs_20251008_06_f072.csv
+2025-10-08 13:01:22,155 - __main__ - INFO - Processed gfs_20251008_06_f075.grib2 -> gfs_20251008_06_f075.csv
+2025-10-08 13:01:22,493 - __main__ - INFO - Processed gfs_20251008_06_f078.grib2 -> gfs_20251008_06_f078.csv
+2025-10-08 13:01:22,860 - __main__ - INFO - Processed gfs_20251008_06_f081.grib2 -> gfs_20251008_06_f081.csv
+2025-10-08 13:01:23,126 - __main__ - INFO - Processed gfs_20251008_06_f084.grib2 -> gfs_20251008_06_f084.csv
+2025-10-08 13:01:23,322 - __main__ - INFO - Processed gfs_20251008_06_f087.grib2 -> gfs_20251008_06_f087.csv
+2025-10-08 13:01:23,517 - __main__ - INFO - Processed gfs_20251008_06_f090.grib2 -> gfs_20251008_06_f090.csv
+2025-10-08 13:01:23,684 - __main__ - INFO - Processed gfs_20251008_06_f093.grib2 -> gfs_20251008_06_f093.csv
+2025-10-08 13:01:23,827 - __main__ - INFO - Processed gfs_20251008_06_f096.grib2 -> gfs_20251008_06_f096.csv
+2025-10-08 13:01:23,972 - __main__ - INFO - Processed gfs_20251008_06_f099.grib2 -> gfs_20251008_06_f099.csv
+2025-10-08 13:01:24,111 - __main__ - INFO - Processed gfs_20251008_06_f102.grib2 -> gfs_20251008_06_f102.csv
+2025-10-08 13:01:24,242 - __main__ - INFO - Processed gfs_20251008_06_f105.grib2 -> gfs_20251008_06_f105.csv
+2025-10-08 13:01:24,387 - __main__ - INFO - Processed gfs_20251008_06_f108.grib2 -> gfs_20251008_06_f108.csv
+2025-10-08 13:01:24,540 - __main__ - INFO - Processed gfs_20251008_06_f111.grib2 -> gfs_20251008_06_f111.csv
+2025-10-08 13:01:24,660 - __main__ - INFO - Processed gfs_20251008_06_f114.grib2 -> gfs_20251008_06_f114.csv
+2025-10-08 13:01:24,783 - __main__ - INFO - Processed gfs_20251008_06_f117.grib2 -> gfs_20251008_06_f117.csv
+2025-10-08 13:01:24,916 - __main__ - INFO - Processed gfs_20251008_06_f120.grib2 -> gfs_20251008_06_f120.csv
+2025-10-08 13:01:28,043 - __main__ - INFO - Consolidated forecast saved to dados\cache\forecast_20251008_1301.csv
+2025-10-08 13:01:28,052 - __main__ - INFO - Download completed successfully
+2025-10-16 16:59:13,764 - captar_nomads - INFO - Starting download for 5 days from 2025-10-16
+2025-10-16 16:59:14,811 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f002 (0.35 MB)
+2025-10-16 16:59:15,444 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f004 (0.37 MB)
+2025-10-16 16:59:15,578 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f001 (0.31 MB)
+2025-10-16 16:59:15,712 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f003 (0.37 MB)
+2025-10-16 16:59:16,165 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f005 (0.36 MB)
+2025-10-16 16:59:16,293 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f006 (0.37 MB)
+2025-10-16 16:59:17,131 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f009 (0.37 MB)
+2025-10-16 16:59:17,213 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f008 (0.37 MB)
+2025-10-16 16:59:17,613 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f007 (0.37 MB)
+2025-10-16 16:59:17,820 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f010 (0.38 MB)
+2025-10-16 16:59:17,874 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f011 (0.38 MB)
+2025-10-16 16:59:18,222 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f012 (0.38 MB)
+2025-10-16 16:59:18,562 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f014 (0.37 MB)
+2025-10-16 16:59:18,648 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f013 (0.37 MB)
+2025-10-16 16:59:18,869 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f015 (0.37 MB)
+2025-10-16 16:59:19,264 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f016 (0.37 MB)
+2025-10-16 16:59:19,286 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f017 (0.37 MB)
+2025-10-16 16:59:19,842 - captar_nomads - INFO - Successfully downloaded gfs.t06z.pgrb2.0p25.f018 (0.37 MB)
+2025-10-16 16:59:20,529 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\root\AppData\Roaming\Python\Python311\site-packages\uvicorn\_compat.py", line 23, in asyncio_run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\asyncio\base_events.py", line 637, in run_until_complete
+    self.run_forever()
+  File "C:\Program Files\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Program Files\Python311\Lib\asyncio\base_events.py", line 604, in run_forever
+    self._run_once()
+  File "C:\Program Files\Python311\Lib\asyncio\base_events.py", line 1909, in _run_once
+    handle._run()
+  File "C:\Program Files\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\root\AppData\Roaming\Python\Python311\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+  File "C:\Program Files\Python311\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\root\AppData\Roaming\Python\Python311\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+  File "C:\Program Files\Python311\Lib\asyncio\runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files\Python311\Lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Program Files\Python311\Lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2025-10-23 21:48:14,843 - NOMADS.captar_nomads - INFO - Loaded forecast cache from forecast_20251023_2146.csv
+2025-10-23 21:48:15,048 - NOMADS.captar_nomads - INFO - Using GFS cycle: 20251023 18Z
+2025-10-23 21:48:15,049 - NOMADS.captar_nomads - INFO - Current time UTC: 2025-10-24 00:48
+2025-10-23 21:48:15,049 - NOMADS.captar_nomads - INFO - Current time BRT: 2025-10-23 21:48
+2025-10-23 21:48:15,050 - NOMADS.captar_nomads - INFO - Starting download for 5 days from 2025-10-23 cycle 18Z
+2025-10-23 21:48:15,050 - NOMADS.captar_nomads - INFO - Will download 120 forecast hours
+2025-10-23 21:48:15,051 - NOMADS.captar_nomads - INFO - Downloading batch 1/12
+2025-10-23 21:48:15,052 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f001 is up to date, skipping
+2025-10-23 21:48:15,054 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f002 is up to date, skipping
+2025-10-23 21:48:15,055 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f003 is up to date, skipping
+2025-10-23 21:48:15,057 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f004 is up to date, skipping
+2025-10-23 21:48:15,059 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f005 is up to date, skipping
+2025-10-23 21:48:15,063 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f006 is up to date, skipping
+2025-10-23 21:48:15,064 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f007 is up to date, skipping
+2025-10-23 21:48:15,066 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f008 is up to date, skipping
+2025-10-23 21:48:15,067 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f009 is up to date, skipping
+2025-10-23 21:48:15,069 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f010 is up to date, skipping
+2025-10-23 21:48:15,069 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:48:17,072 - NOMADS.captar_nomads - INFO - Downloading batch 2/12
+2025-10-23 21:48:17,074 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f011 is up to date, skipping
+2025-10-23 21:48:17,075 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f012 is up to date, skipping
+2025-10-23 21:48:17,078 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f013 is up to date, skipping
+2025-10-23 21:48:17,080 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f014 is up to date, skipping
+2025-10-23 21:48:17,082 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f015 is up to date, skipping
+2025-10-23 21:48:17,083 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f016 is up to date, skipping
+2025-10-23 21:48:17,084 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f017 is up to date, skipping
+2025-10-23 21:48:17,085 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f018 is up to date, skipping
+2025-10-23 21:48:17,087 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f019 is up to date, skipping
+2025-10-23 21:48:17,089 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f020 is up to date, skipping
+2025-10-23 21:48:17,090 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:48:19,099 - NOMADS.captar_nomads - INFO - Downloading batch 3/12
+2025-10-23 21:48:19,100 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f021 is up to date, skipping
+2025-10-23 21:48:19,102 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f022 is up to date, skipping
+2025-10-23 21:48:19,103 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f023 is up to date, skipping
+2025-10-23 21:48:19,105 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f024 is up to date, skipping
+2025-10-23 21:48:19,107 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f025 is up to date, skipping
+2025-10-23 21:48:19,108 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f026 is up to date, skipping
+2025-10-23 21:48:19,111 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f027 is up to date, skipping
+2025-10-23 21:48:19,113 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f028 is up to date, skipping
+2025-10-23 21:48:19,115 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f029 is up to date, skipping
+2025-10-23 21:48:19,116 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f030 is up to date, skipping
+2025-10-23 21:48:19,116 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:48:21,129 - NOMADS.captar_nomads - INFO - Downloading batch 4/12
+2025-10-23 21:48:21,130 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f031 is up to date, skipping
+2025-10-23 21:48:21,131 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f032 is up to date, skipping
+2025-10-23 21:48:21,132 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f033 is up to date, skipping
+2025-10-23 21:48:21,133 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f034 is up to date, skipping
+2025-10-23 21:48:21,134 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f035 is up to date, skipping
+2025-10-23 21:48:21,135 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f036 is up to date, skipping
+2025-10-23 21:48:21,137 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f037 is up to date, skipping
+2025-10-23 21:48:21,138 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f038 is up to date, skipping
+2025-10-23 21:48:21,139 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f039 is up to date, skipping
+2025-10-23 21:48:21,140 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f040 is up to date, skipping
+2025-10-23 21:48:21,140 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:48:23,148 - NOMADS.captar_nomads - INFO - Downloading batch 5/12
+2025-10-23 21:48:23,149 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f041 is up to date, skipping
+2025-10-23 21:48:23,150 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f042 is up to date, skipping
+2025-10-23 21:48:23,151 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f043 is up to date, skipping
+2025-10-23 21:48:23,152 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f044 is up to date, skipping
+2025-10-23 21:48:23,153 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f045 is up to date, skipping
+2025-10-23 21:48:23,155 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f046 is up to date, skipping
+2025-10-23 21:48:23,156 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f047 is up to date, skipping
+2025-10-23 21:48:23,157 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f048 is up to date, skipping
+2025-10-23 21:48:23,158 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f049 is up to date, skipping
+2025-10-23 21:48:23,162 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f050 is up to date, skipping
+2025-10-23 21:48:23,162 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:48:25,168 - NOMADS.captar_nomads - INFO - Downloading batch 6/12
+2025-10-23 21:48:25,169 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f051 is up to date, skipping
+2025-10-23 21:48:25,170 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f052 is up to date, skipping
+2025-10-23 21:48:25,171 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f053 is up to date, skipping
+2025-10-23 21:48:25,172 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f054 is up to date, skipping
+2025-10-23 21:48:25,173 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f055 is up to date, skipping
+2025-10-23 21:48:25,175 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f056 is up to date, skipping
+2025-10-23 21:48:25,177 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f057 is up to date, skipping
+2025-10-23 21:48:25,179 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f058 is up to date, skipping
+2025-10-23 21:48:25,180 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f059 is up to date, skipping
+2025-10-23 21:48:25,181 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f060 is up to date, skipping
+2025-10-23 21:48:25,182 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:48:27,194 - NOMADS.captar_nomads - INFO - Downloading batch 7/12
+2025-10-23 21:48:27,195 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f061 is up to date, skipping
+2025-10-23 21:48:27,196 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f062 is up to date, skipping
+2025-10-23 21:48:27,197 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f063 is up to date, skipping
+2025-10-23 21:48:27,198 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f064 is up to date, skipping
+2025-10-23 21:48:27,199 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f065 is up to date, skipping
+2025-10-23 21:48:27,200 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f066 is up to date, skipping
+2025-10-23 21:48:27,201 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f067 is up to date, skipping
+2025-10-23 21:48:27,203 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f068 is up to date, skipping
+2025-10-23 21:48:27,204 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f069 is up to date, skipping
+2025-10-23 21:48:27,205 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f070 is up to date, skipping
+2025-10-23 21:48:27,205 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:48:29,212 - NOMADS.captar_nomads - INFO - Downloading batch 8/12
+2025-10-23 21:48:29,214 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f071 is up to date, skipping
+2025-10-23 21:48:29,216 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f072 is up to date, skipping
+2025-10-23 21:48:29,218 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f073 is up to date, skipping
+2025-10-23 21:48:29,220 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f074 is up to date, skipping
+2025-10-23 21:48:29,221 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f075 is up to date, skipping
+2025-10-23 21:48:29,222 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f076 is up to date, skipping
+2025-10-23 21:48:29,224 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f077 is up to date, skipping
+2025-10-23 21:48:29,228 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f078 is up to date, skipping
+2025-10-23 21:48:29,230 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f079 is up to date, skipping
+2025-10-23 21:48:29,230 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f080 is up to date, skipping
+2025-10-23 21:48:29,231 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:48:31,243 - NOMADS.captar_nomads - INFO - Downloading batch 9/12
+2025-10-23 21:48:31,245 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f081 is up to date, skipping
+2025-10-23 21:48:31,246 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f082 is up to date, skipping
+2025-10-23 21:48:31,247 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f083 is up to date, skipping
+2025-10-23 21:48:31,248 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f084 is up to date, skipping
+2025-10-23 21:48:31,249 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f085 is up to date, skipping
+2025-10-23 21:48:31,250 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f086 is up to date, skipping
+2025-10-23 21:48:31,252 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f087 is up to date, skipping
+2025-10-23 21:48:31,253 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f088 is up to date, skipping
+2025-10-23 21:48:31,254 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f089 is up to date, skipping
+2025-10-23 21:48:31,255 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f090 is up to date, skipping
+2025-10-23 21:48:31,256 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:48:33,263 - NOMADS.captar_nomads - INFO - Downloading batch 10/12
+2025-10-23 21:48:33,264 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f091 is up to date, skipping
+2025-10-23 21:48:33,265 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f092 is up to date, skipping
+2025-10-23 21:48:33,266 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f093 is up to date, skipping
+2025-10-23 21:48:33,267 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f094 is up to date, skipping
+2025-10-23 21:48:33,268 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f095 is up to date, skipping
+2025-10-23 21:48:33,269 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f096 is up to date, skipping
+2025-10-23 21:48:33,270 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f097 is up to date, skipping
+2025-10-23 21:48:33,272 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f098 is up to date, skipping
+2025-10-23 21:48:33,272 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f099 is up to date, skipping
+2025-10-23 21:48:33,273 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f100 is up to date, skipping
+2025-10-23 21:48:33,274 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:48:35,280 - NOMADS.captar_nomads - INFO - Downloading batch 11/12
+2025-10-23 21:48:35,282 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f101 is up to date, skipping
+2025-10-23 21:48:35,283 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f102 is up to date, skipping
+2025-10-23 21:48:35,284 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f103 is up to date, skipping
+2025-10-23 21:48:35,285 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f104 is up to date, skipping
+2025-10-23 21:48:35,286 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f105 is up to date, skipping
+2025-10-23 21:48:35,287 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f106 is up to date, skipping
+2025-10-23 21:48:35,288 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f107 is up to date, skipping
+2025-10-23 21:48:35,289 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f108 is up to date, skipping
+2025-10-23 21:48:35,290 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f109 is up to date, skipping
+2025-10-23 21:48:35,295 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f110 is up to date, skipping
+2025-10-23 21:48:35,295 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:48:37,302 - NOMADS.captar_nomads - INFO - Downloading batch 12/12
+2025-10-23 21:48:37,303 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f111 is up to date, skipping
+2025-10-23 21:48:37,304 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f112 is up to date, skipping
+2025-10-23 21:48:37,305 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f113 is up to date, skipping
+2025-10-23 21:48:37,306 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f114 is up to date, skipping
+2025-10-23 21:48:37,307 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f115 is up to date, skipping
+2025-10-23 21:48:37,312 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f116 is up to date, skipping
+2025-10-23 21:48:37,313 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f117 is up to date, skipping
+2025-10-23 21:48:37,314 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f118 is up to date, skipping
+2025-10-23 21:48:37,315 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f119 is up to date, skipping
+2025-10-23 21:48:37,317 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f120 is up to date, skipping
+2025-10-23 21:48:37,317 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:48:37,317 - NOMADS.captar_nomads - INFO - Total files downloaded: 120/120
+2025-10-23 21:48:37,535 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f001.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:38,362 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f002.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:38,465 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f003.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:38,556 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f004.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:38,651 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f005.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:38,744 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f006.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:38,835 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f007.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:38,927 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f008.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:39,019 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f009.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:39,117 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f010.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:39,206 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f011.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:39,303 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f012.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:39,405 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f013.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:39,551 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f014.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:39,711 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f015.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:39,839 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f016.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:40,011 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f017.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:40,147 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f018.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:40,271 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f019.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:40,395 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f020.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:40,515 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f021.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:40,640 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f022.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:40,777 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f023.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:40,911 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f024.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:41,055 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f025.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:41,206 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f026.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:41,332 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f027.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:41,464 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f028.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:41,634 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f029.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:41,785 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f030.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:41,913 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f031.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:42,052 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f032.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:42,170 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f033.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:42,329 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f034.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:42,447 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f035.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:42,590 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f036.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:42,754 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f037.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:42,917 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f038.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:43,045 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f039.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:43,167 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f040.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:43,284 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f041.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:43,416 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f042.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:43,522 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f043.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:43,663 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f044.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:43,776 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f045.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:43,913 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f046.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:44,073 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f047.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:44,397 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f048.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:44,717 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f049.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:44,866 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f050.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:45,012 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f051.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:45,141 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f052.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:45,289 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f053.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:45,413 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f054.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:45,565 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f055.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:45,689 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f056.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:45,829 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f057.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:45,948 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f058.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:46,069 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f059.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:46,199 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f060.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:46,343 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f061.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:46,479 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f062.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:46,610 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f063.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:46,732 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f064.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:46,877 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f065.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:46,998 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f066.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:47,122 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f067.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:47,245 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f068.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:47,371 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f069.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:47,497 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f070.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:47,622 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f071.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:47,749 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f072.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:47,879 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f073.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:48,013 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f074.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:48,122 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f075.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:48,271 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f076.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:48,398 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f077.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:48,526 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f078.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:48,647 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f079.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:48,765 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f080.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:48,901 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f081.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:49,015 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f082.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:49,149 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f083.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:49,278 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f084.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:49,389 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f085.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:49,516 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f086.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:49,662 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f087.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:49,772 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f088.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:49,912 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f089.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:50,020 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f090.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:50,143 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f091.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:50,272 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f092.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:50,414 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f093.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:50,545 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f094.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:50,664 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f095.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:50,788 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f096.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:50,912 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f097.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:51,038 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f098.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:51,154 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f099.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:51,270 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f100.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:51,428 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f101.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:51,553 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f102.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:51,689 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f103.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:51,820 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f104.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:51,951 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f105.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:52,080 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f106.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:52,201 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f107.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:52,335 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f108.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:52,482 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f109.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:52,601 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f110.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:52,705 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f111.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:52,800 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f112.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:52,903 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f113.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:53,000 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f114.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:53,147 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f115.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:53,282 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f116.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:53,391 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f117.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:53,534 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f118.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:53,636 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f119.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:53,730 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f120.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:48:53,825 - NOMADS.captar_nomads - INFO - Extracted data from 120 GRIB files
+2025-10-23 21:48:53,826 - NOMADS.captar_nomads - INFO - Processing 120 forecast hours in 20 blocks of 6h
+2025-10-23 21:48:53,830 - NOMADS.captar_nomads - INFO - Generated 120 hourly records from accumulated data
+2025-10-23 21:48:54,346 - NOMADS.captar_nomads - ERROR - Erro ao salvar dados horários no SQLite: unexpected indent (database.py, line 32)
+2025-10-23 21:48:54,363 - NOMADS.captar_nomads - INFO - Consolidated forecast saved to C:\Users\root\Desktop\teste\backend\NOMADS\dados\cache\forecast_20251023_2148.csv
+2025-10-23 21:48:54,367 - NOMADS.captar_nomads - INFO - Forecast cache updated with 12 records
+2025-10-23 21:48:54,378 - NOMADS.captar_nomads - INFO - Download completed successfully
+2025-10-23 21:50:18,734 - NOMADS.captar_nomads - INFO - Loaded forecast cache from forecast_20251023_2150.csv
+2025-10-23 21:50:18,840 - NOMADS.captar_nomads - INFO - Using GFS cycle: 20251023 18Z
+2025-10-23 21:50:18,840 - NOMADS.captar_nomads - INFO - Current time UTC: 2025-10-24 00:50
+2025-10-23 21:50:18,841 - NOMADS.captar_nomads - INFO - Current time BRT: 2025-10-23 21:50
+2025-10-23 21:50:18,841 - NOMADS.captar_nomads - INFO - Starting download for 5 days from 2025-10-23 cycle 18Z
+2025-10-23 21:50:18,841 - NOMADS.captar_nomads - INFO - Will download 120 forecast hours
+2025-10-23 21:50:18,842 - NOMADS.captar_nomads - INFO - Downloading batch 1/12
+2025-10-23 21:50:18,843 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f001 is up to date, skipping
+2025-10-23 21:50:18,844 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f002 is up to date, skipping
+2025-10-23 21:50:18,845 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f003 is up to date, skipping
+2025-10-23 21:50:18,846 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f004 is up to date, skipping
+2025-10-23 21:50:18,847 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f005 is up to date, skipping
+2025-10-23 21:50:18,848 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f006 is up to date, skipping
+2025-10-23 21:50:18,849 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f007 is up to date, skipping
+2025-10-23 21:50:18,851 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f008 is up to date, skipping
+2025-10-23 21:50:18,854 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f009 is up to date, skipping
+2025-10-23 21:50:18,856 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f010 is up to date, skipping
+2025-10-23 21:50:18,857 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:50:20,858 - NOMADS.captar_nomads - INFO - Downloading batch 2/12
+2025-10-23 21:50:20,859 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f011 is up to date, skipping
+2025-10-23 21:50:20,860 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f012 is up to date, skipping
+2025-10-23 21:50:20,861 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f013 is up to date, skipping
+2025-10-23 21:50:20,862 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f014 is up to date, skipping
+2025-10-23 21:50:20,863 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f015 is up to date, skipping
+2025-10-23 21:50:20,864 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f016 is up to date, skipping
+2025-10-23 21:50:20,866 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f017 is up to date, skipping
+2025-10-23 21:50:20,867 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f018 is up to date, skipping
+2025-10-23 21:50:20,868 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f019 is up to date, skipping
+2025-10-23 21:50:20,872 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f020 is up to date, skipping
+2025-10-23 21:50:20,873 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:50:22,875 - NOMADS.captar_nomads - INFO - Downloading batch 3/12
+2025-10-23 21:50:22,876 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f021 is up to date, skipping
+2025-10-23 21:50:22,877 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f022 is up to date, skipping
+2025-10-23 21:50:22,878 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f023 is up to date, skipping
+2025-10-23 21:50:22,879 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f024 is up to date, skipping
+2025-10-23 21:50:22,880 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f025 is up to date, skipping
+2025-10-23 21:50:22,882 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f026 is up to date, skipping
+2025-10-23 21:50:22,883 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f027 is up to date, skipping
+2025-10-23 21:50:22,884 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f028 is up to date, skipping
+2025-10-23 21:50:22,888 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f029 is up to date, skipping
+2025-10-23 21:50:22,889 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f030 is up to date, skipping
+2025-10-23 21:50:22,890 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:50:24,891 - NOMADS.captar_nomads - INFO - Downloading batch 4/12
+2025-10-23 21:50:24,892 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f031 is up to date, skipping
+2025-10-23 21:50:24,893 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f032 is up to date, skipping
+2025-10-23 21:50:24,894 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f033 is up to date, skipping
+2025-10-23 21:50:24,895 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f034 is up to date, skipping
+2025-10-23 21:50:24,896 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f035 is up to date, skipping
+2025-10-23 21:50:24,897 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f036 is up to date, skipping
+2025-10-23 21:50:24,898 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f037 is up to date, skipping
+2025-10-23 21:50:24,899 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f038 is up to date, skipping
+2025-10-23 21:50:24,901 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f039 is up to date, skipping
+2025-10-23 21:50:24,904 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f040 is up to date, skipping
+2025-10-23 21:50:24,904 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:50:26,913 - NOMADS.captar_nomads - INFO - Downloading batch 5/12
+2025-10-23 21:50:26,914 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f041 is up to date, skipping
+2025-10-23 21:50:26,915 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f042 is up to date, skipping
+2025-10-23 21:50:26,916 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f043 is up to date, skipping
+2025-10-23 21:50:26,917 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f044 is up to date, skipping
+2025-10-23 21:50:26,921 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f045 is up to date, skipping
+2025-10-23 21:50:26,922 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f046 is up to date, skipping
+2025-10-23 21:50:26,923 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f047 is up to date, skipping
+2025-10-23 21:50:26,924 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f048 is up to date, skipping
+2025-10-23 21:50:26,925 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f049 is up to date, skipping
+2025-10-23 21:50:26,926 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f050 is up to date, skipping
+2025-10-23 21:50:26,926 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:50:28,932 - NOMADS.captar_nomads - INFO - Downloading batch 6/12
+2025-10-23 21:50:28,934 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f051 is up to date, skipping
+2025-10-23 21:50:28,936 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f052 is up to date, skipping
+2025-10-23 21:50:28,937 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f053 is up to date, skipping
+2025-10-23 21:50:28,940 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f054 is up to date, skipping
+2025-10-23 21:50:28,940 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f055 is up to date, skipping
+2025-10-23 21:50:28,941 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f056 is up to date, skipping
+2025-10-23 21:50:28,942 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f057 is up to date, skipping
+2025-10-23 21:50:28,944 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f058 is up to date, skipping
+2025-10-23 21:50:28,944 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f059 is up to date, skipping
+2025-10-23 21:50:28,945 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f060 is up to date, skipping
+2025-10-23 21:50:28,946 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:50:30,951 - NOMADS.captar_nomads - INFO - Downloading batch 7/12
+2025-10-23 21:50:30,953 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f061 is up to date, skipping
+2025-10-23 21:50:30,954 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f062 is up to date, skipping
+2025-10-23 21:50:30,955 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f063 is up to date, skipping
+2025-10-23 21:50:30,956 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f064 is up to date, skipping
+2025-10-23 21:50:30,958 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f065 is up to date, skipping
+2025-10-23 21:50:30,959 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f066 is up to date, skipping
+2025-10-23 21:50:30,960 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f067 is up to date, skipping
+2025-10-23 21:50:30,961 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f068 is up to date, skipping
+2025-10-23 21:50:30,962 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f069 is up to date, skipping
+2025-10-23 21:50:30,963 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f070 is up to date, skipping
+2025-10-23 21:50:30,963 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:50:32,972 - NOMADS.captar_nomads - INFO - Downloading batch 8/12
+2025-10-23 21:50:32,973 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f071 is up to date, skipping
+2025-10-23 21:50:32,974 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f072 is up to date, skipping
+2025-10-23 21:50:32,975 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f073 is up to date, skipping
+2025-10-23 21:50:32,976 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f074 is up to date, skipping
+2025-10-23 21:50:32,977 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f075 is up to date, skipping
+2025-10-23 21:50:32,979 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f076 is up to date, skipping
+2025-10-23 21:50:32,980 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f077 is up to date, skipping
+2025-10-23 21:50:32,981 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f078 is up to date, skipping
+2025-10-23 21:50:32,981 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f079 is up to date, skipping
+2025-10-23 21:50:32,982 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f080 is up to date, skipping
+2025-10-23 21:50:32,983 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:50:34,994 - NOMADS.captar_nomads - INFO - Downloading batch 9/12
+2025-10-23 21:50:34,995 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f081 is up to date, skipping
+2025-10-23 21:50:34,996 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f082 is up to date, skipping
+2025-10-23 21:50:34,997 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f083 is up to date, skipping
+2025-10-23 21:50:34,998 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f084 is up to date, skipping
+2025-10-23 21:50:34,999 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f085 is up to date, skipping
+2025-10-23 21:50:35,001 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f086 is up to date, skipping
+2025-10-23 21:50:35,003 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f087 is up to date, skipping
+2025-10-23 21:50:35,005 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f088 is up to date, skipping
+2025-10-23 21:50:35,007 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f089 is up to date, skipping
+2025-10-23 21:50:35,008 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f090 is up to date, skipping
+2025-10-23 21:50:35,009 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:50:37,024 - NOMADS.captar_nomads - INFO - Downloading batch 10/12
+2025-10-23 21:50:37,025 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f091 is up to date, skipping
+2025-10-23 21:50:37,026 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f092 is up to date, skipping
+2025-10-23 21:50:37,027 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f093 is up to date, skipping
+2025-10-23 21:50:37,028 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f094 is up to date, skipping
+2025-10-23 21:50:37,029 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f095 is up to date, skipping
+2025-10-23 21:50:37,030 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f096 is up to date, skipping
+2025-10-23 21:50:37,032 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f097 is up to date, skipping
+2025-10-23 21:50:37,033 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f098 is up to date, skipping
+2025-10-23 21:50:37,036 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f099 is up to date, skipping
+2025-10-23 21:50:37,037 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f100 is up to date, skipping
+2025-10-23 21:50:37,038 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:50:39,049 - NOMADS.captar_nomads - INFO - Downloading batch 11/12
+2025-10-23 21:50:39,052 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f101 is up to date, skipping
+2025-10-23 21:50:39,053 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f102 is up to date, skipping
+2025-10-23 21:50:39,054 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f103 is up to date, skipping
+2025-10-23 21:50:39,056 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f104 is up to date, skipping
+2025-10-23 21:50:39,057 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f105 is up to date, skipping
+2025-10-23 21:50:39,058 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f106 is up to date, skipping
+2025-10-23 21:50:39,059 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f107 is up to date, skipping
+2025-10-23 21:50:39,061 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f108 is up to date, skipping
+2025-10-23 21:50:39,062 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f109 is up to date, skipping
+2025-10-23 21:50:39,063 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f110 is up to date, skipping
+2025-10-23 21:50:39,064 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:50:41,068 - NOMADS.captar_nomads - INFO - Downloading batch 12/12
+2025-10-23 21:50:41,070 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f111 is up to date, skipping
+2025-10-23 21:50:41,072 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f112 is up to date, skipping
+2025-10-23 21:50:41,073 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f113 is up to date, skipping
+2025-10-23 21:50:41,074 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f114 is up to date, skipping
+2025-10-23 21:50:41,076 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f115 is up to date, skipping
+2025-10-23 21:50:41,077 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f116 is up to date, skipping
+2025-10-23 21:50:41,078 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f117 is up to date, skipping
+2025-10-23 21:50:41,080 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f118 is up to date, skipping
+2025-10-23 21:50:41,081 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f119 is up to date, skipping
+2025-10-23 21:50:41,084 - NOMADS.captar_nomads - INFO - File gfs.t18z.pgrb2.0p25.f120 is up to date, skipping
+2025-10-23 21:50:41,085 - NOMADS.captar_nomads - INFO - Batch completed: 10/10 files
+2025-10-23 21:50:41,086 - NOMADS.captar_nomads - INFO - Total files downloaded: 120/120
+2025-10-23 21:50:41,313 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f001.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:42,130 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f002.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:42,230 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f003.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:42,331 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f004.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:42,431 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f005.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:42,565 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f006.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:42,708 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f007.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:42,847 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f008.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:42,982 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f009.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:43,137 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f010.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:43,291 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f011.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:43,421 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f012.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:43,551 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f013.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:43,694 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f014.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:43,868 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f015.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:44,016 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f016.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:44,165 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f017.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:44,474 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f018.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:44,765 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f019.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:44,882 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f020.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:44,989 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f021.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:45,086 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f022.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:45,179 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f023.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:45,279 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f024.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:45,378 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f025.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:45,474 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f026.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:45,574 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f027.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:45,676 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f028.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:45,772 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f029.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:45,871 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f030.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:45,969 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f031.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:46,073 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f032.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:46,167 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f033.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:46,257 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f034.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:46,352 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f035.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:46,458 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f036.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:46,572 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f037.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:46,670 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f038.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:46,771 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f039.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:46,866 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f040.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:46,971 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f041.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:47,067 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f042.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:47,161 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f043.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:47,260 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f044.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:47,356 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f045.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:47,448 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f046.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:47,558 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f047.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:47,660 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f048.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:47,759 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f049.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:47,851 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f050.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:47,947 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f051.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:48,039 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f052.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:48,140 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f053.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:48,235 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f054.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:48,331 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f055.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:48,426 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f056.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:48,525 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f057.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:48,619 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f058.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:48,716 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f059.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:48,812 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f060.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:48,911 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f061.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:49,007 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f062.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:49,102 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f063.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:49,202 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f064.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:49,295 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f065.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:49,391 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f066.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:49,489 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f067.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:49,600 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f068.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:49,702 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f069.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:49,798 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f070.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:49,888 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f071.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:49,978 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f072.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:50,074 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f073.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:50,170 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f074.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:50,270 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f075.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:50,363 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f076.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:50,461 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f077.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:50,558 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f078.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:50,657 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f079.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:50,755 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f080.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:50,848 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f081.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:50,940 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f082.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:51,036 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f083.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:51,126 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f084.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:51,233 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f085.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:51,325 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f086.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:51,424 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f087.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:51,522 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f088.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:51,622 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f089.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:51,713 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f090.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:51,804 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f091.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:51,903 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f092.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:52,003 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f093.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:52,099 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f094.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:52,211 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f095.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:52,319 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f096.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:52,410 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f097.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:52,509 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f098.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:52,626 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f099.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:52,745 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f100.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:52,848 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f101.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:52,954 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f102.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:53,047 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f103.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:53,145 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f104.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:53,233 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f105.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:53,326 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f106.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:53,426 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f107.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:53,527 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f108.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:53,624 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f109.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:53,727 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f110.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:53,826 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f111.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:53,924 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f112.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:54,010 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f113.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:54,107 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f114.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:54,207 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f115.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:54,303 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f116.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:54,393 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f117.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:54,496 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f118.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:54,592 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f119.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:54,691 - cfgrib.messages - WARNING - Ignoring index file 'C:\\Users\\root\\Desktop\\teste\\backend\\NOMADS\\dados\\nomads\\gfs_20251023_18_f120.grib2.5b7b6.idx' incompatible with GRIB file
+2025-10-23 21:50:54,789 - NOMADS.captar_nomads - INFO - Extracted data from 120 GRIB files
+2025-10-23 21:50:54,789 - NOMADS.captar_nomads - INFO - Processing 120 forecast hours in 20 blocks of 6h
+2025-10-23 21:50:54,794 - NOMADS.captar_nomads - INFO - Generated 120 hourly records from accumulated data
+2025-10-23 21:50:55,655 - NOMADS.captar_nomads - INFO - Hourly forecast saved to SQLite (weather_hourly)
+2025-10-23 21:50:55,670 - NOMADS.captar_nomads - INFO - Consolidated forecast saved to C:\Users\root\Desktop\teste\backend\NOMADS\dados\cache\forecast_20251023_2150.csv
+2025-10-23 21:50:55,673 - NOMADS.captar_nomads - INFO - Forecast cache updated with 12 records
+2025-10-23 21:50:55,689 - NOMADS.captar_nomads - INFO - Download completed successfully

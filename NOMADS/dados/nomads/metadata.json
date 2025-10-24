@@ -1,0 +1,1626 @@
+{
+  "last_update": "2025-10-23T22:47:58.398299",
+  "files": {
+    "gfs_20251006_06_f003": {
+      "hash": "358fa9acffb9a16a69c7eda6bcd387f2",
+      "size_mb": 0.36377620697021484,
+      "downloaded_at": "2025-10-06T16:56:36.773976",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 3
+    },
+    "gfs_20251006_06_f006": {
+      "hash": "5b9d42847cb95be2f8b9ab3bd232c4a0",
+      "size_mb": 0.3815288543701172,
+      "downloaded_at": "2025-10-06T16:56:36.792561",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 6
+    },
+    "gfs_20251006_06_f001": {
+      "hash": "45f4f611130fd2708efc0eb780801670",
+      "size_mb": 0.3211679458618164,
+      "downloaded_at": "2025-10-06T16:56:36.810700",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 1
+    },
+    "gfs_20251006_06_f015": {
+      "hash": "a0926ada25c4190df8767adf42aad803",
+      "size_mb": 0.38507938385009766,
+      "downloaded_at": "2025-10-06T16:56:37.393135",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 15
+    },
+    "gfs_20251006_06_f009": {
+      "hash": "5d6327c766d942b925870143741e0ea3",
+      "size_mb": 0.3673257827758789,
+      "downloaded_at": "2025-10-06T16:56:37.427481",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 9
+    },
+    "gfs_20251006_06_f012": {
+      "hash": "95dcd3c68b6ccb9d8e56c63a82e81a32",
+      "size_mb": 0.3708772659301758,
+      "downloaded_at": "2025-10-06T16:56:37.494135",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 12
+    },
+    "gfs_20251006_06_f018": {
+      "hash": "2ba1bee331ba420901d5673f4aa59f26",
+      "size_mb": 0.3886299133300781,
+      "downloaded_at": "2025-10-06T16:56:37.991565",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 18
+    },
+    "gfs_20251006_06_f021": {
+      "hash": "0634ad2d28238ccaad71e10006246fae",
+      "size_mb": 0.3211679458618164,
+      "downloaded_at": "2025-10-06T16:56:38.017621",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 21
+    },
+    "gfs_20251006_06_f024": {
+      "hash": "de5a247fbeb3959f1312cf8c5f4420c2",
+      "size_mb": 0.3353700637817383,
+      "downloaded_at": "2025-10-06T16:56:38.133078",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 24
+    },
+    "gfs_20251006_06_f030": {
+      "hash": "d6283b558bc9f7f2c6e45f5d5508c78e",
+      "size_mb": 0.3815288543701172,
+      "downloaded_at": "2025-10-06T16:56:38.631305",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 30
+    },
+    "gfs_20251006_06_f027": {
+      "hash": "1c9165bf3720163ddf5770269c687647",
+      "size_mb": 0.3673257827758789,
+      "downloaded_at": "2025-10-06T16:56:38.713764",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 27
+    },
+    "gfs_20251006_06_f033": {
+      "hash": "efcf00aabe7b7c6b55beea35f410e8ca",
+      "size_mb": 0.3708772659301758,
+      "downloaded_at": "2025-10-06T16:56:38.909207",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 33
+    },
+    "gfs_20251006_06_f039": {
+      "hash": "95076895a8194861582b60268c20ea94",
+      "size_mb": 0.3708772659301758,
+      "downloaded_at": "2025-10-06T16:56:39.355681",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 39
+    },
+    "gfs_20251006_06_f036": {
+      "hash": "13b2d037d66d2b6ee244a98a82f2b6f6",
+      "size_mb": 0.37442779541015625,
+      "downloaded_at": "2025-10-06T16:56:39.435103",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 36
+    },
+    "gfs_20251006_06_f042": {
+      "hash": "2d1068fa758cd8dcf18a6279133115ee",
+      "size_mb": 0.3886299133300781,
+      "downloaded_at": "2025-10-06T16:56:39.568114",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 42
+    },
+    "gfs_20251006_06_f045": {
+      "hash": "35e9a4580c13026024848b1b0a1ef751",
+      "size_mb": 0.31761741638183594,
+      "downloaded_at": "2025-10-06T16:56:40.112121",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 45
+    },
+    "gfs_20251006_06_f048": {
+      "hash": "bb123150430f48a96b839400f7feae10",
+      "size_mb": 0.31761741638183594,
+      "downloaded_at": "2025-10-06T16:56:40.230067",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 48
+    },
+    "gfs_20251006_06_f051": {
+      "hash": "60b7db4f7daacbfb2f81972457407ecb",
+      "size_mb": 0.3673257827758789,
+      "downloaded_at": "2025-10-06T16:56:40.339318",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 51
+    },
+    "gfs_20251006_06_f054": {
+      "hash": "419f7c48057c04473b436188525ba0d7",
+      "size_mb": 0.3708772659301758,
+      "downloaded_at": "2025-10-06T16:56:41.116897",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 54
+    },
+    "gfs_20251006_06_f060": {
+      "hash": "c220b9fac8bdcfb02a00efa7b48b32c1",
+      "size_mb": 0.37442779541015625,
+      "downloaded_at": "2025-10-06T16:56:41.204480",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 60
+    },
+    "gfs_20251006_06_f057": {
+      "hash": "24f8f19622b5b37460bd75d2d65c058a",
+      "size_mb": 0.3673267364501953,
+      "downloaded_at": "2025-10-06T16:56:41.299916",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 57
+    },
+    "gfs_20251006_06_f066": {
+      "hash": "7e5a579cc4d3dcde5afc9dbb8a079f7f",
+      "size_mb": 0.3921804428100586,
+      "downloaded_at": "2025-10-06T16:56:41.980919",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 66
+    },
+    "gfs_20251006_06_f063": {
+      "hash": "c0cbed63223d3d4d09333979a263ea81",
+      "size_mb": 0.3708772659301758,
+      "downloaded_at": "2025-10-06T16:56:42.096719",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 63
+    },
+    "gfs_20251006_06_f069": {
+      "hash": "f039f1e5188e9157da24a7edda2c814a",
+      "size_mb": 0.3353700637817383,
+      "downloaded_at": "2025-10-06T16:56:42.271665",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 69
+    },
+    "gfs_20251006_06_f072": {
+      "hash": "a18ceaa3be47703d4567078926c516d5",
+      "size_mb": 0.3318195343017578,
+      "downloaded_at": "2025-10-06T16:56:42.949444",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 72
+    },
+    "gfs_20251006_06_f078": {
+      "hash": "3d3a09aa251e053540d0675fb107f235",
+      "size_mb": 0.3886299133300781,
+      "downloaded_at": "2025-10-06T16:56:44.802330",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 78
+    },
+    "gfs_20251006_06_f075": {
+      "hash": "a206fe0fd0757ae2957a11aa836dd8fc",
+      "size_mb": 0.3708772659301758,
+      "downloaded_at": "2025-10-06T16:56:44.937980",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 75
+    },
+    "gfs_20251006_06_f081": {
+      "hash": "f03f8532fa9b01c3fe17ceb68490b778",
+      "size_mb": 0.3886299133300781,
+      "downloaded_at": "2025-10-06T16:56:45.660699",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 81
+    },
+    "gfs_20251006_06_f084": {
+      "hash": "aefc8b6cc6df09f8f707366585db4533",
+      "size_mb": 0.39573097229003906,
+      "downloaded_at": "2025-10-06T16:56:45.711910",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 84
+    },
+    "gfs_20251006_06_f087": {
+      "hash": "92e243860c3fb0dab2b7d1f20db836b2",
+      "size_mb": 0.3886299133300781,
+      "downloaded_at": "2025-10-06T16:56:45.854424",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 87
+    },
+    "gfs_20251006_06_f093": {
+      "hash": "4902672e7aba39e6c515d25bb24c3d2b",
+      "size_mb": 0.3211679458618164,
+      "downloaded_at": "2025-10-06T16:56:46.330676",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 93
+    },
+    "gfs_20251006_06_f090": {
+      "hash": "f7e1fe951b766285487e89951f050bf6",
+      "size_mb": 0.3921804428100586,
+      "downloaded_at": "2025-10-06T16:56:46.456185",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 90
+    },
+    "gfs_20251006_06_f096": {
+      "hash": "da2d90e267b9574c0148a9ca89b9e74a",
+      "size_mb": 0.3247184753417969,
+      "downloaded_at": "2025-10-06T16:56:46.538661",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 96
+    },
+    "gfs_20251006_06_f099": {
+      "hash": "4b24b4ad4765cc9af2bb1186273db5ad",
+      "size_mb": 0.3673267364501953,
+      "downloaded_at": "2025-10-06T16:56:47.117193",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 99
+    },
+    "gfs_20251006_06_f102": {
+      "hash": "8fed87500a1c78e0fa67d3408d5b66aa",
+      "size_mb": 0.38507938385009766,
+      "downloaded_at": "2025-10-06T16:56:47.201295",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 102
+    },
+    "gfs_20251006_06_f105": {
+      "hash": "eb1df4045fcfa2109fa4428f0cf074ce",
+      "size_mb": 0.38507938385009766,
+      "downloaded_at": "2025-10-06T16:56:47.253001",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 105
+    },
+    "gfs_20251006_06_f108": {
+      "hash": "77dba23a76d7f788e967cc29d0dc7b5f",
+      "size_mb": 0.3779783248901367,
+      "downloaded_at": "2025-10-06T16:56:47.855689",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 108
+    },
+    "gfs_20251006_06_f111": {
+      "hash": "e1cd44912e63b20240e28f74db2994ca",
+      "size_mb": 0.3921804428100586,
+      "downloaded_at": "2025-10-06T16:56:47.907395",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 111
+    },
+    "gfs_20251006_06_f114": {
+      "hash": "8f6e11b72c6e0420c1bcf6d640063cdf",
+      "size_mb": 0.3886299133300781,
+      "downloaded_at": "2025-10-06T16:56:47.967305",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 114
+    },
+    "gfs_20251006_06_f120": {
+      "hash": "7d9e3ccc9b6caf60c2855c9d3eb3c7a0",
+      "size_mb": 0.3318195343017578,
+      "downloaded_at": "2025-10-06T16:56:48.542516",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 120
+    },
+    "gfs_20251006_06_f117": {
+      "hash": "fa6bce5601f4d806cdf285832dbb9044",
+      "size_mb": 0.310516357421875,
+      "downloaded_at": "2025-10-06T16:56:48.616519",
+      "date": "20251006",
+      "cycle": "06",
+      "forecast_hour": 117
+    },
+    "gfs_20251008_06_f001": {
+      "hash": "9658204a0f406cc98e7ffa68104661d2",
+      "size_mb": 0.31406497955322266,
+      "downloaded_at": "2025-10-08T13:00:56.104260",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 1
+    },
+    "gfs_20251008_06_f006": {
+      "hash": "47bfa4c4df789f541f5860e71267eefb",
+      "size_mb": 0.3779783248901367,
+      "downloaded_at": "2025-10-08T13:00:56.255782",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 6
+    },
+    "gfs_20251008_06_f003": {
+      "hash": "51a4c13ab19d69a240aa9c86f94b47cc",
+      "size_mb": 0.36377620697021484,
+      "downloaded_at": "2025-10-08T13:00:56.679272",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 3
+    },
+    "gfs_20251008_06_f009": {
+      "hash": "f9551bce8ce40d7b78ff884ee221c932",
+      "size_mb": 0.3708772659301758,
+      "downloaded_at": "2025-10-08T13:00:56.781889",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 9
+    },
+    "gfs_20251008_06_f012": {
+      "hash": "cf938b15ab703035224072633d045dfa",
+      "size_mb": 0.37442779541015625,
+      "downloaded_at": "2025-10-08T13:00:57.206857",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 12
+    },
+    "gfs_20251008_06_f015": {
+      "hash": "97b918fcc313f2f616a91a374ef715a6",
+      "size_mb": 0.38507938385009766,
+      "downloaded_at": "2025-10-08T13:00:57.358086",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 15
+    },
+    "gfs_20251008_06_f018": {
+      "hash": "4109b68ec7e48fee0c1a324a03e460f5",
+      "size_mb": 0.38507938385009766,
+      "downloaded_at": "2025-10-08T13:00:57.440729",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 18
+    },
+    "gfs_20251008_06_f024": {
+      "hash": "04805fe83aadd61e28b6ae2aa05e2719",
+      "size_mb": 0.3247184753417969,
+      "downloaded_at": "2025-10-08T13:00:58.217639",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 24
+    },
+    "gfs_20251008_06_f021": {
+      "hash": "f2886bd688257e3db0d6d89d3fa9ac30",
+      "size_mb": 0.3247184753417969,
+      "downloaded_at": "2025-10-08T13:00:58.459533",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 21
+    },
+    "gfs_20251008_06_f033": {
+      "hash": "8eab369eb16eaed3ae5e51ff498d458e",
+      "size_mb": 0.3815288543701172,
+      "downloaded_at": "2025-10-08T13:00:59.090809",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 33
+    },
+    "gfs_20251008_06_f030": {
+      "hash": "7a3e114b0db16e6d6cc8fa390c2b95a0",
+      "size_mb": 0.3815288543701172,
+      "downloaded_at": "2025-10-08T13:00:59.177421",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 30
+    },
+    "gfs_20251008_06_f039": {
+      "hash": "7bed8e56f2f7330e3088d70f7fc510fa",
+      "size_mb": 0.38507938385009766,
+      "downloaded_at": "2025-10-08T13:00:59.741056",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 39
+    },
+    "gfs_20251008_06_f036": {
+      "hash": "4b2281d06cd3e37f1db3a7284bad275e",
+      "size_mb": 0.3886299133300781,
+      "downloaded_at": "2025-10-08T13:00:59.964734",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 36
+    },
+    "gfs_20251008_06_f042": {
+      "hash": "9ffb36421ff80d89ab70a0e65fb5e9ad",
+      "size_mb": 0.3815288543701172,
+      "downloaded_at": "2025-10-08T13:01:00.403896",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 42
+    },
+    "gfs_20251008_06_f048": {
+      "hash": "9d89b28b6a8cfc6bbfc43f651bc26bce",
+      "size_mb": 0.3211679458618164,
+      "downloaded_at": "2025-10-08T13:01:01.009010",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 48
+    },
+    "gfs_20251008_06_f045": {
+      "hash": "ddf4c1d5e75c61a0023742166f5d23e0",
+      "size_mb": 0.3247184753417969,
+      "downloaded_at": "2025-10-08T13:01:01.269247",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 45
+    },
+    "gfs_20251008_06_f054": {
+      "hash": "96fd851d0c48b33853320627237fbd8c",
+      "size_mb": 0.37442779541015625,
+      "downloaded_at": "2025-10-08T13:01:02.005419",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 54
+    },
+    "gfs_20251008_06_f027": {
+      "hash": "8ec1d533d0fa4ad02acd20c897c433b4",
+      "size_mb": 0.3566741943359375,
+      "downloaded_at": "2025-10-08T13:01:02.294316",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 27
+    },
+    "gfs_20251008_06_f051": {
+      "hash": "3f1092ed0536eb204ff1699e98a8e0cf",
+      "size_mb": 0.3566741943359375,
+      "downloaded_at": "2025-10-08T13:01:02.353521",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 51
+    },
+    "gfs_20251008_06_f057": {
+      "hash": "a82898ebf3b2f07718ddb124bd7103f6",
+      "size_mb": 0.36022472381591797,
+      "downloaded_at": "2025-10-08T13:01:02.789173",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 57
+    },
+    "gfs_20251008_06_f060": {
+      "hash": "85103dede6f42f60603a95332e5241c5",
+      "size_mb": 0.37442779541015625,
+      "downloaded_at": "2025-10-08T13:01:02.913384",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 60
+    },
+    "gfs_20251008_06_f063": {
+      "hash": "c2b89a0c5c871794205fddafd048389e",
+      "size_mb": 0.37442779541015625,
+      "downloaded_at": "2025-10-08T13:01:03.898706",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 63
+    },
+    "gfs_20251008_06_f069": {
+      "hash": "566c60cba8b4495b7626b37a2f917ea3",
+      "size_mb": 0.30696582794189453,
+      "downloaded_at": "2025-10-08T13:01:05.367820",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 69
+    },
+    "gfs_20251008_06_f075": {
+      "hash": "2271356f8bcc0cf1e0a1aa5d0c03e2b3",
+      "size_mb": 0.3708772659301758,
+      "downloaded_at": "2025-10-08T13:01:05.931015",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 75
+    },
+    "gfs_20251008_06_f078": {
+      "hash": "2356e993b5aa88d16ae10e5b6c055494",
+      "size_mb": 0.3708772659301758,
+      "downloaded_at": "2025-10-08T13:01:06.536789",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 78
+    },
+    "gfs_20251008_06_f066": {
+      "hash": "fced6e4b69e4eb55021483bf4ed23b3a",
+      "size_mb": 0.3815288543701172,
+      "downloaded_at": "2025-10-08T13:01:06.759141",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 66
+    },
+    "gfs_20251008_06_f072": {
+      "hash": "8a15e2753bff3e79bea155aa5f677125",
+      "size_mb": 0.32826900482177734,
+      "downloaded_at": "2025-10-08T13:01:07.100120",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 72
+    },
+    "gfs_20251008_06_f081": {
+      "hash": "6c671a326d5817fe7fd6c55833567c43",
+      "size_mb": 0.37442779541015625,
+      "downloaded_at": "2025-10-08T13:01:07.183919",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 81
+    },
+    "gfs_20251008_06_f090": {
+      "hash": "857461db86aec9c14dbdc9e7820f561d",
+      "size_mb": 0.37442779541015625,
+      "downloaded_at": "2025-10-08T13:01:07.957377",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 90
+    },
+    "gfs_20251008_06_f084": {
+      "hash": "872ea8263ac6247f9154f4403674c031",
+      "size_mb": 0.3779783248901367,
+      "downloaded_at": "2025-10-08T13:01:08.015206",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 84
+    },
+    "gfs_20251008_06_f096": {
+      "hash": "90bcc147e88f23062c97aa4a6adaef27",
+      "size_mb": 0.31761741638183594,
+      "downloaded_at": "2025-10-08T13:01:08.822801",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 96
+    },
+    "gfs_20251008_06_f093": {
+      "hash": "3f4db9e3247668dbebbf453dd0714e46",
+      "size_mb": 0.31761741638183594,
+      "downloaded_at": "2025-10-08T13:01:08.965204",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 93
+    },
+    "gfs_20251008_06_f099": {
+      "hash": "1539527897fd3fd710ecbd53948b6a65",
+      "size_mb": 0.3779783248901367,
+      "downloaded_at": "2025-10-08T13:01:09.426007",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 99
+    },
+    "gfs_20251008_06_f087": {
+      "hash": "267706d69b9e697981022aac260686da",
+      "size_mb": 0.3779783248901367,
+      "downloaded_at": "2025-10-08T13:01:10.020484",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 87
+    },
+    "gfs_20251008_06_f105": {
+      "hash": "9b869ff73e9bd32283006cd15d7acdf8",
+      "size_mb": 0.3886299133300781,
+      "downloaded_at": "2025-10-08T13:01:10.114997",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 105
+    },
+    "gfs_20251008_06_f102": {
+      "hash": "2dc0c7355764420ff893212eace62608",
+      "size_mb": 0.3708772659301758,
+      "downloaded_at": "2025-10-08T13:01:10.203806",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 102
+    },
+    "gfs_20251008_06_f108": {
+      "hash": "4d24cc58f1e5b631c77db24b2719fbd3",
+      "size_mb": 0.3779783248901367,
+      "downloaded_at": "2025-10-08T13:01:10.733194",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 108
+    },
+    "gfs_20251008_06_f111": {
+      "hash": "4de5d454c8bf6c91ebcf1498792ef5ed",
+      "size_mb": 0.3779783248901367,
+      "downloaded_at": "2025-10-08T13:01:10.969967",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 111
+    },
+    "gfs_20251008_06_f120": {
+      "hash": "a59b9cdf995bd06259cee2f9304386a0",
+      "size_mb": 0.33892059326171875,
+      "downloaded_at": "2025-10-08T13:01:11.621494",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 120
+    },
+    "gfs_20251008_06_f117": {
+      "hash": "e034bf8a40eec2d0800c89eba2504614",
+      "size_mb": 0.3211679458618164,
+      "downloaded_at": "2025-10-08T13:01:11.681543",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 117
+    },
+    "gfs_20251008_06_f114": {
+      "hash": "62a29fe70ef13a37a30c31a384f1745c",
+      "size_mb": 0.3779783248901367,
+      "downloaded_at": "2025-10-08T13:01:14.502631",
+      "date": "20251008",
+      "cycle": "06",
+      "forecast_hour": 114
+    },
+    "gfs_20251023_18_f002": {
+      "hash": "113a057117b936f1de8b78a50e749cd7",
+      "size_mb": 0.0017881393432617188,
+      "downloaded_at": "2025-10-23T19:53:15.044436",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 2
+    },
+    "gfs_20251023_18_f003": {
+      "hash": "37cae1014b81680350e87a69a55e6cf5",
+      "size_mb": 0.0017852783203125,
+      "downloaded_at": "2025-10-23T19:53:15.112798",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 3
+    },
+    "gfs_20251023_18_f001": {
+      "hash": "fc1bc216f402a303d254efd371376abd",
+      "size_mb": 0.0017852783203125,
+      "downloaded_at": "2025-10-23T19:53:15.132802",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 1
+    },
+    "gfs_20251023_18_f004": {
+      "hash": "e957d02cc0d08a46d25705326259cbc9",
+      "size_mb": 0.0017910003662109375,
+      "downloaded_at": "2025-10-23T19:53:15.843844",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 4
+    },
+    "gfs_20251023_18_f005": {
+      "hash": "00a20afc7d2c9fe96912d085d6d60b77",
+      "size_mb": 0.0017824172973632812,
+      "downloaded_at": "2025-10-23T19:53:15.911535",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 5
+    },
+    "gfs_20251023_18_f006": {
+      "hash": "ae7d8f107f03e5db07f2c91cc22ab13d",
+      "size_mb": 0.0017824172973632812,
+      "downloaded_at": "2025-10-23T19:53:15.967388",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 6
+    },
+    "gfs_20251023_18_f008": {
+      "hash": "88fcfddbbbc4007c9b7eb58d1f27c8e9",
+      "size_mb": 0.0017538070678710938,
+      "downloaded_at": "2025-10-23T19:53:16.643366",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 8
+    },
+    "gfs_20251023_18_f007": {
+      "hash": "60a7002a2d34553c709a37ab6c898a7d",
+      "size_mb": 0.001750946044921875,
+      "downloaded_at": "2025-10-23T19:53:16.681692",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 7
+    },
+    "gfs_20251023_18_f009": {
+      "hash": "21778f9f33da12f2e4386912bd1c7ee9",
+      "size_mb": 0.0017566680908203125,
+      "downloaded_at": "2025-10-23T19:53:16.838114",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 9
+    },
+    "gfs_20251023_18_f010": {
+      "hash": "041fe19de58ac22a0e00e0b7cbf3d253",
+      "size_mb": 0.0017595291137695312,
+      "downloaded_at": "2025-10-23T19:53:17.662934",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 10
+    },
+    "gfs_20251023_18_f013": {
+      "hash": "a24741c4721339ef435faf3a92216a9d",
+      "size_mb": 0.0017595291137695312,
+      "downloaded_at": "2025-10-23T19:53:20.539215",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 13
+    },
+    "gfs_20251023_18_f012": {
+      "hash": "01aae8f6d84543b5c9779f737499f655",
+      "size_mb": 0.0017595291137695312,
+      "downloaded_at": "2025-10-23T19:53:20.569320",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 12
+    },
+    "gfs_20251023_18_f011": {
+      "hash": "d4b1a539ec0ce5d7962e867f61ca975c",
+      "size_mb": 0.00176239013671875,
+      "downloaded_at": "2025-10-23T19:53:20.609237",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 11
+    },
+    "gfs_20251023_18_f015": {
+      "hash": "2fe5b20151f488cf106162e344f8556a",
+      "size_mb": 0.001773834228515625,
+      "downloaded_at": "2025-10-23T19:53:21.551784",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 15
+    },
+    "gfs_20251023_18_f016": {
+      "hash": "83016e1fe76fd630e6e2d0248e040056",
+      "size_mb": 0.0017881393432617188,
+      "downloaded_at": "2025-10-23T19:53:21.575511",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 16
+    },
+    "gfs_20251023_18_f014": {
+      "hash": "814b9bd7f0ee050e14375b55aa244007",
+      "size_mb": 0.00176239013671875,
+      "downloaded_at": "2025-10-23T19:53:21.771361",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 14
+    },
+    "gfs_20251023_18_f018": {
+      "hash": "a4361d6972bc0d1895c300410488b759",
+      "size_mb": 0.0017938613891601562,
+      "downloaded_at": "2025-10-23T19:53:22.385655",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 18
+    },
+    "gfs_20251023_18_f017": {
+      "hash": "2183c63d941025e2a0156c27d1fc54b4",
+      "size_mb": 0.0017910003662109375,
+      "downloaded_at": "2025-10-23T19:53:22.407738",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 17
+    },
+    "gfs_20251023_18_f019": {
+      "hash": "114f51a91df043bbc7b7dfacdde20f3c",
+      "size_mb": 0.0017938613891601562,
+      "downloaded_at": "2025-10-23T19:53:22.602328",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 19
+    },
+    "gfs_20251023_18_f020": {
+      "hash": "16a1ec311feac50383b20a6fd96cbbdc",
+      "size_mb": 0.001796722412109375,
+      "downloaded_at": "2025-10-23T19:53:23.378595",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 20
+    },
+    "gfs_20251023_18_f021": {
+      "hash": "265d597752f64e19601f1f5d00ec4508",
+      "size_mb": 0.0017938613891601562,
+      "downloaded_at": "2025-10-23T19:53:26.395533",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 21
+    },
+    "gfs_20251023_18_f022": {
+      "hash": "2ae55f33631af65c2b72616836b71f3a",
+      "size_mb": 0.0017938613891601562,
+      "downloaded_at": "2025-10-23T19:53:26.466267",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 22
+    },
+    "gfs_20251023_18_f023": {
+      "hash": "dedd6254a931ae12958d95757ba7cb2d",
+      "size_mb": 0.0017938613891601562,
+      "downloaded_at": "2025-10-23T19:53:26.556864",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 23
+    },
+    "gfs_20251023_18_f024": {
+      "hash": "ee6fa07abd6fa5573a85fe87bcde673e",
+      "size_mb": 0.0017938613891601562,
+      "downloaded_at": "2025-10-23T19:53:27.294324",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 24
+    },
+    "gfs_20251023_18_f025": {
+      "hash": "aed68c6f6f4c367a742f392e8e19bcd7",
+      "size_mb": 0.0017938613891601562,
+      "downloaded_at": "2025-10-23T19:53:27.447950",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 25
+    },
+    "gfs_20251023_18_f026": {
+      "hash": "f15ab6ce323ef7723e9894192024585a",
+      "size_mb": 0.001796722412109375,
+      "downloaded_at": "2025-10-23T19:53:27.593070",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 26
+    },
+    "gfs_20251023_18_f027": {
+      "hash": "f49230e206e949fb67e84bbc1266aeb1",
+      "size_mb": 0.0017881393432617188,
+      "downloaded_at": "2025-10-23T19:53:28.398619",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 27
+    },
+    "gfs_20251023_18_f028": {
+      "hash": "8b8af7b941b640db04709c60f7fcbd0e",
+      "size_mb": 0.0017852783203125,
+      "downloaded_at": "2025-10-23T19:53:28.621266",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 28
+    },
+    "gfs_20251023_18_f029": {
+      "hash": "f700916b613035781bac91bacad8d868",
+      "size_mb": 0.0017938613891601562,
+      "downloaded_at": "2025-10-23T19:53:28.672656",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 29
+    },
+    "gfs_20251023_18_f030": {
+      "hash": "d89a17f793bdcda6d7925d899be8419a",
+      "size_mb": 0.0017938613891601562,
+      "downloaded_at": "2025-10-23T19:53:29.344353",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 30
+    },
+    "gfs_20251023_18_f033": {
+      "hash": "8e32f94d4e5bc46405931e244f09000e",
+      "size_mb": 0.0017652511596679688,
+      "downloaded_at": "2025-10-23T19:53:32.257543",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 33
+    },
+    "gfs_20251023_18_f031": {
+      "hash": "f7d5adc46300e9c4caffeeb7e69ecc56",
+      "size_mb": 0.0017595291137695312,
+      "downloaded_at": "2025-10-23T19:53:32.275611",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 31
+    },
+    "gfs_20251023_18_f032": {
+      "hash": "bba3eae8b8dec48f0a19888807cb299b",
+      "size_mb": 0.0017595291137695312,
+      "downloaded_at": "2025-10-23T19:53:32.325818",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 32
+    },
+    "gfs_20251023_18_f036": {
+      "hash": "8cff4057958d9654a309d35055f6523c",
+      "size_mb": 0.0017652511596679688,
+      "downloaded_at": "2025-10-23T19:53:33.138727",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 36
+    },
+    "gfs_20251023_18_f034": {
+      "hash": "221bc4a99f8333622c47be3460a20635",
+      "size_mb": 0.0017652511596679688,
+      "downloaded_at": "2025-10-23T19:53:33.156624",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 34
+    },
+    "gfs_20251023_18_f035": {
+      "hash": "9bfba378d7778006cbff1631f5b71ae8",
+      "size_mb": 0.0017652511596679688,
+      "downloaded_at": "2025-10-23T19:53:33.239011",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 35
+    },
+    "gfs_20251023_18_f037": {
+      "hash": "e9620c4847c966e3e02d566acd177da5",
+      "size_mb": 0.0017681121826171875,
+      "downloaded_at": "2025-10-23T19:53:34.109404",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 37
+    },
+    "gfs_20251023_18_f039": {
+      "hash": "fdcacbbfb3c4d33033ee1adeefe9065e",
+      "size_mb": 0.0017766952514648438,
+      "downloaded_at": "2025-10-23T19:53:34.130845",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 39
+    },
+    "gfs_20251023_18_f038": {
+      "hash": "365f8160fdb7e50736eafcce7f4331b0",
+      "size_mb": 0.0017681121826171875,
+      "downloaded_at": "2025-10-23T19:53:34.157466",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 38
+    },
+    "gfs_20251023_18_f040": {
+      "hash": "f65d8f0941edf8b02340ad5454cb64d7",
+      "size_mb": 0.0017881393432617188,
+      "downloaded_at": "2025-10-23T19:53:35.048387",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 40
+    },
+    "gfs_20251023_18_f042": {
+      "hash": "e70cf3da7afd24fa6454d3ec3a7bfca8",
+      "size_mb": 0.001819610595703125,
+      "downloaded_at": "2025-10-23T19:53:37.988919",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 42
+    },
+    "gfs_20251023_18_f043": {
+      "hash": "484b0a3a9c654aecae422ceda2e7f306",
+      "size_mb": 0.0018482208251953125,
+      "downloaded_at": "2025-10-23T19:53:38.010738",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 43
+    },
+    "gfs_20251023_18_f041": {
+      "hash": "fe30568b48885c2ba31bc54598dd4b4b",
+      "size_mb": 0.0018053054809570312,
+      "downloaded_at": "2025-10-23T19:53:38.074673",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 41
+    },
+    "gfs_20251023_18_f045": {
+      "hash": "6bb057fc5a84ad860be91ee439c89dbd",
+      "size_mb": 0.0018310546875,
+      "downloaded_at": "2025-10-23T19:53:38.882234",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 45
+    },
+    "gfs_20251023_18_f044": {
+      "hash": "a7f1d7a77bb77574f572bec69ef1fee2",
+      "size_mb": 0.001842498779296875,
+      "downloaded_at": "2025-10-23T19:53:38.904592",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 44
+    },
+    "gfs_20251023_18_f046": {
+      "hash": "bfbcdc0f5517a6fe66722493c5bae4cd",
+      "size_mb": 0.0018367767333984375,
+      "downloaded_at": "2025-10-23T19:53:38.928108",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 46
+    },
+    "gfs_20251023_18_f049": {
+      "hash": "f66d6344e1ba3e7f5a1b49026a5ad827",
+      "size_mb": 0.0018396377563476562,
+      "downloaded_at": "2025-10-23T19:53:39.671662",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 49
+    },
+    "gfs_20251023_18_f047": {
+      "hash": "27b103f78838f0db0e59d325ed6616cf",
+      "size_mb": 0.0018396377563476562,
+      "downloaded_at": "2025-10-23T19:53:39.736494",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 47
+    },
+    "gfs_20251023_18_f048": {
+      "hash": "55e040b1f3b73c7af8570bb4a543135d",
+      "size_mb": 0.0018396377563476562,
+      "downloaded_at": "2025-10-23T19:53:39.771221",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 48
+    },
+    "gfs_20251023_18_f050": {
+      "hash": "22baecf24aa83358bc0d0522c615b580",
+      "size_mb": 0.0018396377563476562,
+      "downloaded_at": "2025-10-23T19:53:40.503118",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 50
+    },
+    "gfs_20251023_18_f051": {
+      "hash": "16b54ca3fb8ad8967f639721127c29ff",
+      "size_mb": 0.0018310546875,
+      "downloaded_at": "2025-10-23T19:53:43.267242",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 51
+    },
+    "gfs_20251023_18_f053": {
+      "hash": "64623fd799c8f0e605ca4f575383e9a2",
+      "size_mb": 0.0018310546875,
+      "downloaded_at": "2025-10-23T19:53:43.304395",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 53
+    },
+    "gfs_20251023_18_f052": {
+      "hash": "0d8858e75a2d79994f9c2fede57574f0",
+      "size_mb": 0.0018281936645507812,
+      "downloaded_at": "2025-10-23T19:53:43.357678",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 52
+    },
+    "gfs_20251023_18_f054": {
+      "hash": "598cab1c2865ba036afb38eaa45c9edb",
+      "size_mb": 0.0018310546875,
+      "downloaded_at": "2025-10-23T19:53:44.147074",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 54
+    },
+    "gfs_20251023_18_f055": {
+      "hash": "b24221bd914308ec9bc4e62072322e5e",
+      "size_mb": 0.0017938613891601562,
+      "downloaded_at": "2025-10-23T19:53:44.177706",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 55
+    },
+    "gfs_20251023_18_f056": {
+      "hash": "283c757f6c3e74ab27b706a8d0b2505c",
+      "size_mb": 0.0017910003662109375,
+      "downloaded_at": "2025-10-23T19:53:44.242230",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 56
+    },
+    "gfs_20251023_18_f057": {
+      "hash": "f3a46fac42eca7e25309c52070579e30",
+      "size_mb": 0.0017881393432617188,
+      "downloaded_at": "2025-10-23T19:53:44.883367",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 57
+    },
+    "gfs_20251023_18_f058": {
+      "hash": "04e4906a0da93404c7e274524b616cb3",
+      "size_mb": 0.0017852783203125,
+      "downloaded_at": "2025-10-23T19:53:44.910990",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 58
+    },
+    "gfs_20251023_18_f059": {
+      "hash": "74c5fd58278ff28a1c415b433a33fe34",
+      "size_mb": 0.0017881393432617188,
+      "downloaded_at": "2025-10-23T19:53:45.145241",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 59
+    },
+    "gfs_20251023_18_f060": {
+      "hash": "19163c922fa990cafa9f04f64f66cf4e",
+      "size_mb": 0.0017881393432617188,
+      "downloaded_at": "2025-10-23T19:53:45.648733",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 60
+    },
+    "gfs_20251023_18_f061": {
+      "hash": "7af4c2488cb62a92b370a094775bdec6",
+      "size_mb": 0.0017766952514648438,
+      "downloaded_at": "2025-10-23T19:53:48.398843",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 61
+    },
+    "gfs_20251023_18_f062": {
+      "hash": "169eac3a159f41bef45b9bdb3d0d9707",
+      "size_mb": 0.0017824172973632812,
+      "downloaded_at": "2025-10-23T19:53:48.421160",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 62
+    },
+    "gfs_20251023_18_f063": {
+      "hash": "bd0369ad9858589bea7cfe82f589e9b4",
+      "size_mb": 0.001796722412109375,
+      "downloaded_at": "2025-10-23T19:53:48.490753",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 63
+    },
+    "gfs_20251023_18_f064": {
+      "hash": "5774149f64c6a3433b64940f32c43b36",
+      "size_mb": 0.0018167495727539062,
+      "downloaded_at": "2025-10-23T19:53:49.264195",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 64
+    },
+    "gfs_20251023_18_f065": {
+      "hash": "3fc119c2c403fd33b16baa01a9952396",
+      "size_mb": 0.0018281936645507812,
+      "downloaded_at": "2025-10-23T19:53:49.286407",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 65
+    },
+    "gfs_20251023_18_f066": {
+      "hash": "780b25ee73b9170194bc7adae33c6e3f",
+      "size_mb": 0.0018339157104492188,
+      "downloaded_at": "2025-10-23T19:53:49.306194",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 66
+    },
+    "gfs_20251023_18_f068": {
+      "hash": "8b1d13f56280e9db241636b59ae1253f",
+      "size_mb": 0.0018482208251953125,
+      "downloaded_at": "2025-10-23T19:53:50.115229",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 68
+    },
+    "gfs_20251023_18_f069": {
+      "hash": "6d00f55b46ac7ba06a20e8b0d6f21055",
+      "size_mb": 0.0018510818481445312,
+      "downloaded_at": "2025-10-23T19:53:50.186464",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 69
+    },
+    "gfs_20251023_18_f067": {
+      "hash": "b9d3323621df77b950dddc1034b144ab",
+      "size_mb": 0.0018453598022460938,
+      "downloaded_at": "2025-10-23T19:53:50.236000",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 67
+    },
+    "gfs_20251023_18_f070": {
+      "hash": "74b44a5f88bf44f32b4e17d9f1da86bf",
+      "size_mb": 0.00185394287109375,
+      "downloaded_at": "2025-10-23T19:53:50.994986",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 70
+    },
+    "gfs_20251023_18_f071": {
+      "hash": "9b2725d0503bac4b172efe6a3bebec5b",
+      "size_mb": 0.0018510818481445312,
+      "downloaded_at": "2025-10-23T19:53:53.725254",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 71
+    },
+    "gfs_20251023_18_f072": {
+      "hash": "d4bd5f08738d7ad94de5993b661b229b",
+      "size_mb": 0.0018510818481445312,
+      "downloaded_at": "2025-10-23T19:53:53.780779",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 72
+    },
+    "gfs_20251023_18_f073": {
+      "hash": "41aca61d290baf70d685caeefd011076",
+      "size_mb": 0.0018367767333984375,
+      "downloaded_at": "2025-10-23T19:53:53.807801",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 73
+    },
+    "gfs_20251023_18_f074": {
+      "hash": "87f67fba2a557927d6cc234d0843a54a",
+      "size_mb": 0.0018367767333984375,
+      "downloaded_at": "2025-10-23T19:53:54.512600",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 74
+    },
+    "gfs_20251023_18_f075": {
+      "hash": "e3cae377c5d550452691d462b436cde1",
+      "size_mb": 0.0018310546875,
+      "downloaded_at": "2025-10-23T19:53:54.536624",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 75
+    },
+    "gfs_20251023_18_f076": {
+      "hash": "0b0e1b61cd118481f9d3411d397486f3",
+      "size_mb": 0.0018253326416015625,
+      "downloaded_at": "2025-10-23T19:53:54.659333",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 76
+    },
+    "gfs_20251023_18_f077": {
+      "hash": "cc81b711b1312275847dbad7186c8cd3",
+      "size_mb": 0.0018224716186523438,
+      "downloaded_at": "2025-10-23T19:53:55.262967",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 77
+    },
+    "gfs_20251023_18_f078": {
+      "hash": "93a55250bcf67278cc572c7cf92e82f3",
+      "size_mb": 0.001819610595703125,
+      "downloaded_at": "2025-10-23T19:53:55.308830",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 78
+    },
+    "gfs_20251023_18_f079": {
+      "hash": "b3e9df9d4f7395cff962a4b0b863aa84",
+      "size_mb": 0.0017766952514648438,
+      "downloaded_at": "2025-10-23T19:53:55.467976",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 79
+    },
+    "gfs_20251023_18_f080": {
+      "hash": "c4c33bbb143bbe1e25791d4399ef6dfe",
+      "size_mb": 0.0017766952514648438,
+      "downloaded_at": "2025-10-23T19:53:56.083785",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 80
+    },
+    "gfs_20251023_18_f083": {
+      "hash": "30a20b52544fd70942aa84f879114442",
+      "size_mb": 0.0017795562744140625,
+      "downloaded_at": "2025-10-23T19:53:58.948304",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 83
+    },
+    "gfs_20251023_18_f081": {
+      "hash": "80d52545470aec5b53756d01aef9d223",
+      "size_mb": 0.0017709732055664062,
+      "downloaded_at": "2025-10-23T19:53:59.090186",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 81
+    },
+    "gfs_20251023_18_f082": {
+      "hash": "0f0ff6fdde6771e6533c66f00b114830",
+      "size_mb": 0.001773834228515625,
+      "downloaded_at": "2025-10-23T19:53:59.123698",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 82
+    },
+    "gfs_20251023_18_f084": {
+      "hash": "3ba037d2db2ad0f69be9a33b369a2a82",
+      "size_mb": 0.001773834228515625,
+      "downloaded_at": "2025-10-23T19:53:59.701987",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 84
+    },
+    "gfs_20251023_18_f085": {
+      "hash": "1007521383cbc242aa15035f5f0608d0",
+      "size_mb": 0.0017795562744140625,
+      "downloaded_at": "2025-10-23T19:53:59.959216",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 85
+    },
+    "gfs_20251023_18_f086": {
+      "hash": "a85b4e4b69ed1804740d568d834fb535",
+      "size_mb": 0.0017795562744140625,
+      "downloaded_at": "2025-10-23T19:54:00.003829",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 86
+    },
+    "gfs_20251023_18_f087": {
+      "hash": "55f9ca52f8b8e541967f280291cbe75f",
+      "size_mb": 0.0017910003662109375,
+      "downloaded_at": "2025-10-23T19:54:00.451357",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 87
+    },
+    "gfs_20251023_18_f088": {
+      "hash": "7c2e7b4baa30a6b74e22e0d33e54e7de",
+      "size_mb": 0.0018053054809570312,
+      "downloaded_at": "2025-10-23T19:54:00.756276",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 88
+    },
+    "gfs_20251023_18_f089": {
+      "hash": "f90042cf89195b3e9161b666f2863b59",
+      "size_mb": 0.00180816650390625,
+      "downloaded_at": "2025-10-23T19:54:00.851034",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 89
+    },
+    "gfs_20251023_18_f090": {
+      "hash": "1a47aefaf9a63e7fbf90462eebd657d6",
+      "size_mb": 0.001819610595703125,
+      "downloaded_at": "2025-10-23T19:54:01.300370",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 90
+    },
+    "gfs_20251023_18_f092": {
+      "hash": "2d28a95b9b1b349c72a1211401c48833",
+      "size_mb": 0.001819610595703125,
+      "downloaded_at": "2025-10-23T19:54:04.103014",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 92
+    },
+    "gfs_20251023_18_f091": {
+      "hash": "07b72a4d873430b9ab8dafb215791f1c",
+      "size_mb": 0.0018224716186523438,
+      "downloaded_at": "2025-10-23T19:54:04.159399",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 91
+    },
+    "gfs_20251023_18_f093": {
+      "hash": "66d5dc8402373fb7855e99348a71abcd",
+      "size_mb": 0.0018167495727539062,
+      "downloaded_at": "2025-10-23T19:54:04.178270",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 93
+    },
+    "gfs_20251023_18_f094": {
+      "hash": "c7cdf93774dab70d468ac8be065b2dc2",
+      "size_mb": 0.0018224716186523438,
+      "downloaded_at": "2025-10-23T19:54:04.926108",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 94
+    },
+    "gfs_20251023_18_f096": {
+      "hash": "c100c88f6dd6ab064714249239fd5c78",
+      "size_mb": 0.001819610595703125,
+      "downloaded_at": "2025-10-23T19:54:04.949354",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 96
+    },
+    "gfs_20251023_18_f095": {
+      "hash": "75b178621d11c21d7e79141ef2b1dd05",
+      "size_mb": 0.0018224716186523438,
+      "downloaded_at": "2025-10-23T19:54:04.972035",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 95
+    },
+    "gfs_20251023_18_f099": {
+      "hash": "9404964e45b6eefd0ddc798da4ae9f2b",
+      "size_mb": 0.00180816650390625,
+      "downloaded_at": "2025-10-23T19:54:05.682132",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 99
+    },
+    "gfs_20251023_18_f098": {
+      "hash": "20836c77dab028b4ffd4abb4a5dc5e02",
+      "size_mb": 0.00180816650390625,
+      "downloaded_at": "2025-10-23T19:54:05.710488",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 98
+    },
+    "gfs_20251023_18_f097": {
+      "hash": "b596f3a350b9a8e95fa7af57ec16cc48",
+      "size_mb": 0.00180816650390625,
+      "downloaded_at": "2025-10-23T19:54:05.736486",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 97
+    },
+    "gfs_20251023_18_f100": {
+      "hash": "95434dec96005be4cd5da8ad8b1469dd",
+      "size_mb": 0.0018138885498046875,
+      "downloaded_at": "2025-10-23T19:54:06.597236",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 100
+    },
+    "gfs_20251023_18_f102": {
+      "hash": "1b2a5db640f0a3cd77070a595f5aa83d",
+      "size_mb": 0.00180816650390625,
+      "downloaded_at": "2025-10-23T19:54:09.489949",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 102
+    },
+    "gfs_20251023_18_f101": {
+      "hash": "429bff9191d868493a93fcd396b8e1ee",
+      "size_mb": 0.0018053054809570312,
+      "downloaded_at": "2025-10-23T19:54:09.536845",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 101
+    },
+    "gfs_20251023_18_f103": {
+      "hash": "4144247408211a35b2f25bc173f41a89",
+      "size_mb": 0.0017795562744140625,
+      "downloaded_at": "2025-10-23T19:54:09.625533",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 103
+    },
+    "gfs_20251023_18_f106": {
+      "hash": "3926e38dac47a311a95433b1a6b994cf",
+      "size_mb": 0.0017709732055664062,
+      "downloaded_at": "2025-10-23T19:54:10.454091",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 106
+    },
+    "gfs_20251023_18_f104": {
+      "hash": "65a066251fe4af7ddc4e4a07197a7dbf",
+      "size_mb": 0.0017766952514648438,
+      "downloaded_at": "2025-10-23T19:54:10.477175",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 104
+    },
+    "gfs_20251023_18_f105": {
+      "hash": "ac623c13ac7646daa6053e13f798b548",
+      "size_mb": 0.0017709732055664062,
+      "downloaded_at": "2025-10-23T19:54:10.496283",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 105
+    },
+    "gfs_20251023_18_f108": {
+      "hash": "b2b5cdcba03a51e2b5ad39f339f4e1b4",
+      "size_mb": 0.0017795562744140625,
+      "downloaded_at": "2025-10-23T19:54:11.233152",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 108
+    },
+    "gfs_20251023_18_f109": {
+      "hash": "a38ea419cedcb98c3b820f44d1b4f427",
+      "size_mb": 0.0017766952514648438,
+      "downloaded_at": "2025-10-23T19:54:11.272504",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 109
+    },
+    "gfs_20251023_18_f107": {
+      "hash": "1d14061896746ab5a279d8907d8ba55f",
+      "size_mb": 0.001773834228515625,
+      "downloaded_at": "2025-10-23T19:54:11.336009",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 107
+    },
+    "gfs_20251023_18_f110": {
+      "hash": "6ef2ebe252781a549d21c1a7e67868fa",
+      "size_mb": 0.0017766952514648438,
+      "downloaded_at": "2025-10-23T19:54:12.098740",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 110
+    },
+    "gfs_20251023_18_f113": {
+      "hash": "ea9b916e2607888f0c5d9af771205157",
+      "size_mb": 0.00180816650390625,
+      "downloaded_at": "2025-10-23T19:54:15.120184",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 113
+    },
+    "gfs_20251023_18_f111": {
+      "hash": "0d5f3e8f1e53ad8322ad41d363fb92cd",
+      "size_mb": 0.0017938613891601562,
+      "downloaded_at": "2025-10-23T19:54:15.148186",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 111
+    },
+    "gfs_20251023_18_f112": {
+      "hash": "cdc2cbc1f58041538da45689d00d8c42",
+      "size_mb": 0.0018024444580078125,
+      "downloaded_at": "2025-10-23T19:54:15.174189",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 112
+    },
+    "gfs_20251023_18_f115": {
+      "hash": "cafcc0ecc012728de7953da54609fb16",
+      "size_mb": 0.0018224716186523438,
+      "downloaded_at": "2025-10-23T19:54:15.926921",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 115
+    },
+    "gfs_20251023_18_f116": {
+      "hash": "b1fa3e9ca4a9e8eebdd842194c7b9cef",
+      "size_mb": 0.0018138885498046875,
+      "downloaded_at": "2025-10-23T19:54:15.954552",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 116
+    },
+    "gfs_20251023_18_f114": {
+      "hash": "ea004f2293bc5787a743cefe7c70a8d8",
+      "size_mb": 0.0018138885498046875,
+      "downloaded_at": "2025-10-23T19:54:16.012154",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 114
+    },
+    "gfs_20251023_18_f117": {
+      "hash": "cdb441c95de283ad997cf064946bec79",
+      "size_mb": 0.0018167495727539062,
+      "downloaded_at": "2025-10-23T19:54:16.774321",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 117
+    },
+    "gfs_20251023_18_f118": {
+      "hash": "71a92eb486397bfa179c51fee91952ad",
+      "size_mb": 0.001819610595703125,
+      "downloaded_at": "2025-10-23T19:54:16.796688",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 118
+    },
+    "gfs_20251023_18_f119": {
+      "hash": "e73a7d34efcaac4fa0681cb7e64b810f",
+      "size_mb": 0.0018281936645507812,
+      "downloaded_at": "2025-10-23T19:54:16.850603",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 119
+    },
+    "gfs_20251023_18_f120": {
+      "hash": "7f43d14ad7d8162e117804b384a6e444",
+      "size_mb": 0.0018396377563476562,
+      "downloaded_at": "2025-10-23T19:54:17.617585",
+      "date": "20251023",
+      "cycle": "18",
+      "forecast_hour": 120
+    }
+  },
+  "statistics": {
+    "total_downloads": 202,
+    "total_size_mb": 29.97104263305664,
+    "failures": 0
+  }
+}

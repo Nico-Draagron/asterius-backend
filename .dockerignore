@@ -1,0 +1,51 @@
+# .dockerignore - Evita copiar arquivos desnecessários para o build Docker
+# Mantém a imagem enxuta e segura, excluindo caches, ambientes, logs, dados locais e arquivos grandes temporários
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ambientes virtuais
+env/
+venv/
+.venv/
+*.egg-info/
+
+# Build artifacts
+dist/
+build/
+
+# Git
+.git/
+.gitignore
+
+# Configurações locais
+.env
+.DS_Store
+
+# Logs
+*.log
+
+# Cache de testes
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+
+# Banco de dados local
+*.db
+*.db-journal
+
+# IDEs
+.vscode/
+.idea/
+
+# Arquivos GRIB grandes do NOMADS
+NOMADS/dados/nomads/*.grib2
+
+# CSVs antigos de cache NOMADS (mantém apenas os mais recentes manualmente)
+NOMADS/dados/cache/forecast_*.csv

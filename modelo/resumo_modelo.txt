@@ -1,0 +1,24 @@
+================================================================================
+RESUMO DO MODELO OTIMIZADO
+================================================================================
+
+TESTE TEMPORAL (dados futuros):
+  MAE normalizado: 0.0863
+  MAPE: 46.19%
+  R²: 0.5169
+
+BOOTSTRAP (validação cruzada):
+  MAE normalizado: 0.0342 ± 0.0024
+  MAPE: 23.90% ± 1.82%
+  R²: 0.8238 ± 0.0263
+
+HIPERPARÂMETROS:
+  n_estimators: 693
+  learning_rate: 0.012475736031333328
+  max_depth: 7
+  subsample: 0.7847525937464693
+  colsample_bytree: 0.8793242617090798
+  gamma: 0.4181993420325257
+  min_child_weight: 3
+  reg_alpha: 8.396561034447475e-05
+  reg_lambda: 1.7047883840557397e-05
