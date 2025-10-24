@@ -39,7 +39,7 @@ COPY . ./
 RUN mkdir -p NOMADS/dados/cache NOMADS/dados/logs backend/data/logs modelo
 
 # Exponha a porta 10000 para o serviço FastAPI/Uvicorn
-EXPOSE 10000
+EXPOSE 8080
 
 # Comando padrão para iniciar o backend em produção
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "10000"]
+CMD ["sh", "-c", "uvicorn main:app --host 0.0.0.0 --port ${PORT:-8080}"]
