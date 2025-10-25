@@ -122,6 +122,17 @@ class NOMADSDownloader:
             "surface"
         ]
 
+        # --- NOVO: Baixar cache NOMADS do bucket GCS antes de processar ---
+        try:
+            from storage_manager import get_storage_manager
+            sm = get_storage_manager()
+            if sm:
+                sm.sync_gcs_to_local("NOMADS/dados/cache", str(self.cache_dir))
+                # Também baixar o banco nomads_forecast.db se estiver no bucket
+                sm.sync_gcs_to_local("NOMADS/dados/cache/nomads_forecast.db", str(self.cache_dir))
+        except Exception as e:
+            logger.warning(f"[CloudStorage] Falha ao baixar cache NOMADS do bucket: {e}")
+
         self.load_metadata()
         self._load_latest_forecast_to_cache()
 
@@ -619,6 +630,15 @@ class NOMADSDownloader:
         # Salvar metadata
         # Upload para Cloud Storage (se disponível)
         self._upload_to_cloud_storage(storage_manager)
+        # --- NOVO: Upload do banco nomads_forecast.db para o bucket GCS ---
+        try:
+            if storage_manager:
+                db_path = self.cache_dir / "nomads_forecast.db"
+                if db_path.exists():
+                    storage_manager.upload_file(str(db_path), "NOMADS/dados/cache/nomads_forecast.db")
+                    logger.info("nomads_forecast.db atualizado enviado para o bucket GCS com sucesso.")
+        except Exception as e:
+            logger.warning(f"[CloudStorage] Falha ao enviar nomads_forecast.db para o bucket: {e}")
         self.metadata["last_update"] = datetime.now().isoformat()
         self.save_metadata()
         
