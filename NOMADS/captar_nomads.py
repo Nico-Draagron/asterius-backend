@@ -544,12 +544,32 @@ class NOMADSDownloader:
 
         # Salvar CSV detalhado hora a hora
 
+
         # Salvar dados horários no SQLite
         try:
             from database import AsteriusDB
             db = AsteriusDB()
             db.import_hourly_weather(df_final)
             logger.info(f"Hourly forecast saved to SQLite (weather_hourly)")
+            # --- Upload automático do SQLite para o bucket GCS ---
+            try:
+                from storage_manager import get_storage_manager
+                sm = get_storage_manager()
+                if sm:
+                    sm.upload_file("asterius.db", "asterius.db")
+                    logger.info("SQLite atualizado enviado para o bucket GCS com sucesso.")
+                    # --- Upload automático do modelo .pkl para o bucket GCS ---
+                    modelo_local_path = "modelo/modelo_final_xgb.pkl"
+                    modelo_gcs_path = "modelo/modelo_final_xgb.pkl"
+                    if os.path.exists(modelo_local_path):
+                        sm.upload_file(modelo_local_path, modelo_gcs_path)
+                        logger.info("Modelo .pkl atualizado enviado para o bucket GCS com sucesso.")
+                    else:
+                        logger.warning("Modelo .pkl não encontrado localmente para upload.")
+                else:
+                    logger.warning("storage_manager não disponível para upload do SQLite/modelo.")
+            except Exception as e:
+                logger.error(f"Erro ao enviar SQLite/modelo para o bucket GCS: {e}")
         except Exception as e:
             logger.error(f"Erro ao salvar dados horários no SQLite: {e}")
 

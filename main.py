@@ -95,8 +95,40 @@ async def lifespan(app: FastAPI):
     
     global agent, memory, predictor
     
-    # Inicializa componentes
+    # Sincroniza banco SQLite e modelo .pkl do GCS para o container
     try:
+        print("☁️ Sincronizando arquivos essenciais do GCS...")
+        try:
+            from storage_manager import get_storage_manager
+            sm = get_storage_manager()
+            if sm:
+                # Sincronizar banco SQLite
+                db_gcs_path = "asterius.db"
+                db_local_path = "asterius.db"
+                if os.path.exists(db_local_path):
+                    print("🗄️ Banco SQLite já existe localmente.")
+                else:
+                    try:
+                        sm.download_file(db_gcs_path, db_local_path)
+                        print(f"✅ Banco SQLite baixado do GCS: {db_gcs_path}")
+                    except Exception as e:
+                        print(f"⚠️ Banco SQLite não encontrado no GCS: {e}")
+                # Sincronizar modelo .pkl
+                modelo_gcs_path = "modelo/modelo_final_xgb.pkl"
+                modelo_local_path = "modelo/modelo_final_xgb.pkl"
+                if os.path.exists(modelo_local_path):
+                    print("✅ Modelo .pkl já existe localmente.")
+                else:
+                    try:
+                        sm.download_file(modelo_gcs_path, modelo_local_path)
+                        print(f"✅ Modelo .pkl baixado do GCS: {modelo_gcs_path}")
+                    except Exception as e:
+                        print(f"⚠️ Modelo .pkl não encontrado no GCS: {e}")
+            else:
+                print("⚠️ storage_manager não disponível ou GCS não configurado.")
+        except Exception as e:
+            print(f"⚠️ Erro ao sincronizar arquivos do GCS: {e}")
+
         memory = ConversationMemory(history_path=HISTORY_PATH)
         predictor = SalesPredictor(model_path=ML_MODEL_PATH)
 
