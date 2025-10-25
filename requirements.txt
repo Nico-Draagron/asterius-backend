@@ -1,3 +1,6 @@
+# Dependências para leitura de GRIB
+cfgrib
+eccodes
 # Core Web Framework
 fastapi>=0.100.0
 uvicorn[standard]>=0.20.0

@@ -5,9 +5,9 @@
 # Etapa 1: Build (instala dependências em ambiente limpo)
 FROM python:3.11-slim AS builder
 
-# Instala dependências do sistema necessárias para pacotes científicos e NOMADS
+# Instala dependências do sistema necessárias para pacotes científicos, NOMADS e GRIB
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends gcc g++ libhdf5-dev libnetcdf-dev && \
+    apt-get install -y --no-install-recommends gcc g++ libhdf5-dev libnetcdf-dev libeccodes0 && \
     rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
@@ -21,9 +21,9 @@ RUN pip install --user --no-cache-dir -r requirements.txt
 # Etapa 2: Runtime (imagem final enxuta)
 FROM python:3.11-slim
 
-# Instala dependências do sistema necessárias para runtime
+# Instala dependências do sistema necessárias para runtime (inclui libeccodes0 para cfgrib)
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends libhdf5-dev libnetcdf-dev && \
+    apt-get install -y --no-install-recommends libhdf5-dev libnetcdf-dev libeccodes0 && \
     rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
