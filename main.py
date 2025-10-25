@@ -230,7 +230,8 @@ app.include_router(hourly_weather_router)
 origins = [
     "http://localhost:3000",
     "http://localhost:5173",
-    "https://asterius-frontend-e5rl9fgx3-nico-draagrons-projects.vercel.app"
+    "https://asterius-frontend-e5rl9fgx3-nico-draagrons-projects.vercel.app",
+    "https://asterius-frontend-6g65zbun4-nico-draagrons-projects.vercel.app"
 ]
 app.add_middleware(
     CORSMiddleware,
